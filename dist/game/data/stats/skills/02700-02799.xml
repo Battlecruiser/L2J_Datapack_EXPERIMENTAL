@@ -1779,7 +1779,7 @@
 		<set name="icon" val="icon.skilltransform1" />
 		<set name="isMagic" val="1" /> <!-- Magic Skill -->
 		<set name="itemConsumeCount" val="1" /> <!-- L2JTW commented out -->
-		<set name="itemConsumeId" val="13656" /> <!-- Transformation Scroll: Rune Orc Mercenary -- <!-- L2JTW commented out -->
+		<set name="itemConsumeId" val="13656" /> <!-- Transformation Scroll: Rune Orc Mercenary --> <!-- L2JTW commented out -->
 		<set name="magicLvl" val="-2" />
 		<set name="operateType" val="A2" />
 		<set name="reuseDelay" val="14400000" />
