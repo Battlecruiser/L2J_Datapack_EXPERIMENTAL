@@ -54,7 +54,7 @@ public class ChatGlobal implements IChatHandler
 		final CreatureSay cs = new CreatureSay(activeChar.getObjectId(), type, activeChar.getName(), text);
 		if (!activeChar.canOverrideCond(PcCondOverride.CHAT_CONDITIONS) && !activeChar.getFloodProtectors().getGlobalChat().tryPerformAction("global chat"))
 		{
-			activeChar.sendMessage(1101);
+			activeChar.sendMessage("Do not spam shout channel.");
 			return;
 		}
 		
