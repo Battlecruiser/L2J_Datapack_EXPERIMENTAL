@@ -2,11 +2,11 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
 	<item id="19735" type="Armor" name="Immortal Shield - Defense Type / Heavy">
 		<set name="icon" val="icon.weapon_sacon_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_count" val="82" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1130" />
 		<set name="price" val="0" />
 		<set name="enchant_enabled" val="1" />
@@ -19,11 +19,11 @@
 	</item>
 	<item id="19751" type="Armor" name="Twilight Shield - Defense Type / Heavy">
 		<set name="icon" val="icon.kratere_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_count" val="199" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1130" />
 		<set name="price" val="0" />
 		<set name="enchant_enabled" val="1" />
@@ -36,11 +36,11 @@
 	</item>
 	<item id="19767" type="Armor" name="Seraph Shield - Defense Type / Heavy">
 		<set name="icon" val="icon.beranka_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_count" val="429" />
-		<set name="crystal_type" val="r95" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R95" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1130" />
 		<set name="price" val="0" />
 		<set name="enchant_enabled" val="1" />
@@ -53,11 +53,11 @@
 	</item>
 	<item id="19783" type="Armor" name="Eternal Shield - Defense Type / Heavy">
 		<set name="icon" val="icon.weapon_akra_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="bodypart" val="lhand" />
 		<set name="crystal_count" val="945" />
-		<set name="crystal_type" val="r99" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R99" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1130" />
 		<set name="price" val="0" />
 		<set name="enchant_enabled" val="1" />

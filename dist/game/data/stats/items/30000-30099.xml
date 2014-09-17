@@ -2,14 +2,14 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
 	<item id="30022" type="Weapon" name="Apocalypse Shaper - Guidance + Haste">
 		<set name="icon" val="icon.weapon_phasian_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dagger" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -28,14 +28,14 @@
 	</item>
 	<item id="30023" type="Weapon" name="Apocalypse Shaper - Haste + Focus">
 		<set name="icon" val="icon.weapon_phasian_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dagger" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -54,14 +54,14 @@
 	</item>
 	<item id="30024" type="Weapon" name="Apocalypse Shaper - Focus + Guidance">
 		<set name="icon" val="icon.weapon_phasian_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dagger" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -80,14 +80,14 @@
 	</item>
 	<item id="30025" type="Weapon" name="Apocalypse Cutter - Haste + Focus">
 		<set name="icon" val="icon.weapon_pasis_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -105,14 +105,14 @@
 	</item>
 	<item id="30026" type="Weapon" name="Apocalypse Cutter - Focus + Health">
 		<set name="icon" val="icon.weapon_pasis_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -130,14 +130,14 @@
 	</item>
 	<item id="30027" type="Weapon" name="Apocalypse Cutter - Health + Haste">
 		<set name="icon" val="icon.weapon_pasis_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -155,14 +155,14 @@
 	</item>
 	<item id="30028" type="Weapon" name="Apocalypse Slasher - Focus + Damage Up">
 		<set name="icon" val="icon.weapon_volver_i01" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigsword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -180,14 +180,14 @@
 	</item>
 	<item id="30029" type="Weapon" name="Apocalypse Slasher - Damage Up + Haste">
 		<set name="icon" val="icon.weapon_volver_i01" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigsword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -205,14 +205,14 @@
 	</item>
 	<item id="30030" type="Weapon" name="Apocalypse Slasher - Haste + Focus">
 		<set name="icon" val="icon.weapon_volver_i01" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigsword" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="SWORD" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -230,14 +230,14 @@
 	</item>
 	<item id="30031" type="Weapon" name="Apocalypse Avenger - Haste + Critical Damage">
 		<set name="icon" val="icon.weapon_raksilion_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -256,14 +256,14 @@
 	</item>
 	<item id="30032" type="Weapon" name="Apocalypse Avenger - Critical Damage + Focus">
 		<set name="icon" val="icon.weapon_raksilion_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -282,14 +282,14 @@
 	</item>
 	<item id="30033" type="Weapon" name="Apocalypse Avenger - Focus + Haste">
 		<set name="icon" val="icon.weapon_raksilion_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -308,14 +308,14 @@
 	</item>
 	<item id="30034" type="Weapon" name="Apocalypse Fighter - Focus + Damage Up">
 		<set name="icon" val="icon.weapon_kirche_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualfist" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;32;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1550" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -334,14 +334,14 @@
 	</item>
 	<item id="30035" type="Weapon" name="Apocalypse Fighter - Damage Up + Haste">
 		<set name="icon" val="icon.weapon_kirche_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualfist" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;32;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1550" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -360,14 +360,14 @@
 	</item>
 	<item id="30036" type="Weapon" name="Apocalypse Fighter - Haste + Focus">
 		<set name="icon" val="icon.weapon_kirche_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualfist" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;32;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1550" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -386,14 +386,14 @@
 	</item>
 	<item id="30037" type="Weapon" name="Apocalypse Stormer - HP Drain + Guidance">
 		<set name="icon" val="icon.weapon_grave_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="pole" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="80" />
 		<set name="damage_range" val="0;0;66;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="2010" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -412,14 +412,14 @@
 	</item>
 	<item id="30038" type="Weapon" name="Apocalypse Stormer - Guidance + Damage Up">
 		<set name="icon" val="icon.weapon_grave_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="pole" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="80" />
 		<set name="damage_range" val="0;0;66;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="2010" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -438,14 +438,14 @@
 	</item>
 	<item id="30039" type="Weapon" name="Apocalypse Stormer - Damage Up + HP Drain">
 		<set name="icon" val="icon.weapon_grave_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="pole" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="80" />
 		<set name="damage_range" val="0;0;66;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="2010" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -464,14 +464,14 @@
 	</item>
 	<item id="30040" type="Weapon" name="Apocalypse Thrower - Damage Up + Focus">
 		<set name="icon" val="icon.weapon_spina_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="bow" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="500" />
 		<set name="damage_range" val="0;0;10;0" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -490,14 +490,14 @@
 	</item>
 	<item id="30041" type="Weapon" name="Apocalypse Thrower - Focus + Long Blow">
 		<set name="icon" val="icon.weapon_spina_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="bow" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="500" />
 		<set name="damage_range" val="0;0;10;0" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -516,14 +516,14 @@
 	</item>
 	<item id="30042" type="Weapon" name="Apocalypse Thrower - Long Blow + Damage Up">
 		<set name="icon" val="icon.weapon_spina_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="bow" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="5" />
 		<set name="attack_range" val="500" />
 		<set name="damage_range" val="0;0;10;0" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -542,14 +542,14 @@
 	</item>
 	<item id="30043" type="Weapon" name="Apocalypse Shooter - Focus + Critical Slow">
 		<set name="icon" val="icon.weapon_medianox_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="crossbow" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="400" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1580" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -569,14 +569,14 @@
 	</item>
 	<item id="30044" type="Weapon" name="Apocalypse Shooter - Critical Slow + Haste">
 		<set name="icon" val="icon.weapon_medianox_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="crossbow" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="400" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1580" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -596,14 +596,14 @@
 	</item>
 	<item id="30045" type="Weapon" name="Apocalypse Shooter - Haste + Focus">
 		<set name="icon" val="icon.weapon_medianox_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="crossbow" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="400" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1580" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -622,20 +622,20 @@
 	</item>
 	<item id="30046" type="Weapon" name="Apocalypse Buster - Acumen + Magic Hold">
 		<set name="icon" val="icon.weapon_imerose_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="enchant_enabled" val="1" />
-		<set name="oncast_skill" val="3577-1" />
+		<!-- <set name="onmagic_skill" val="3577-1" /> FIXME: Missing onmagic_chance -->
 		<set name="item_skill" val="3047-1" />
 		<for>
 			<set order="0x08" stat="pAtk" val="392" />
@@ -648,20 +648,20 @@
 	</item>
 	<item id="30047" type="Weapon" name="Apocalypse Buster - Magic Hold + Mana Up">
 		<set name="icon" val="icon.weapon_imerose_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="enchant_enabled" val="1" />
-		<set name="oncast_skill" val="3577-1" />
+		<!-- <set name="onmagic_skill" val="3577-1" /> FIXME: Missing onmagic_chance -->
 		<set name="item_skill" val="3014-1" />
 		<for>
 			<set order="0x08" stat="pAtk" val="392" />
@@ -674,14 +674,14 @@
 	</item>
 	<item id="30048" type="Weapon" name="Apocalypse Buster - Mana Up + Acumen">
 		<set name="icon" val="icon.weapon_imerose_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -699,14 +699,14 @@
 	</item>
 	<item id="30049" type="Weapon" name="Apocalypse Caster - Empower + Acumen">
 		<set name="icon" val="icon.weapon_yuke_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1080" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -725,20 +725,20 @@
 	</item>
 	<item id="30050" type="Weapon" name="Apocalypse Caster - Acumen + Magic Hold">
 		<set name="icon" val="icon.weapon_yuke_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1080" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="enchant_enabled" val="1" />
-		<set name="oncast_skill" val="3577-1" />
+		<!-- <set name="onmagic_skill" val="3577-1" /> FIXME: Missing onmagic_chance -->
 		<set name="item_skill" val="3047-1" />
 		<for>
 			<set order="0x08" stat="pAtk" val="392" />
@@ -752,20 +752,20 @@
 	</item>
 	<item id="30051" type="Weapon" name="Apocalypse Caster - Magic Hold + Empower">
 		<set name="icon" val="icon.weapon_yuke_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1080" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="enchant_enabled" val="1" />
-		<set name="oncast_skill" val="3577-1" />
+		<!-- <set name="onmagic_skill" val="3577-1" /> FIXME: Missing onmagic_chance -->
 		<set name="item_skill" val="3575-2" />
 		<for>
 			<set order="0x08" stat="pAtk" val="392" />
@@ -779,14 +779,14 @@
 	</item>
 	<item id="30052" type="Weapon" name="Apocalypse Retributer - MP Regeneration + Acumen">
 		<set name="icon" val="icon.weapon_herencia_i01" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigblunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1080" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -805,14 +805,14 @@
 	</item>
 	<item id="30053" type="Weapon" name="Apocalypse Retributer - Acumen + Empower">
 		<set name="icon" val="icon.weapon_herencia_i01" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigblunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1080" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -831,14 +831,14 @@
 	</item>
 	<item id="30054" type="Weapon" name="Apocalypse Retributer - Empower + MP Regeneration">
 		<set name="icon" val="icon.weapon_herencia_i01" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigblunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1080" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -857,14 +857,14 @@
 	</item>
 	<item id="30055" type="Weapon" name="Apocalypse Dual sword - Haste + Damage Up">
 		<set name="icon" val="icon.weapon_r_dualsword_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -882,14 +882,14 @@
 	</item>
 	<item id="30056" type="Weapon" name="Apocalypse Dual sword - Damage Up + Health">
 		<set name="icon" val="icon.weapon_r_dualsword_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -907,14 +907,14 @@
 	</item>
 	<item id="30057" type="Weapon" name="Apocalypse Dual sword - Health + Haste">
 		<set name="icon" val="icon.weapon_r_dualsword_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1520" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -932,14 +932,14 @@
 	</item>
 	<item id="30058" type="Weapon" name="Apocalypse Dual Dagger - Damage Up + Focus">
 		<set name="icon" val="icon.weapon_r_dualdagger_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualdagger" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="2050" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -958,14 +958,14 @@
 	</item>
 	<item id="30059" type="Weapon" name="Apocalypse Dual Dagger - Focus + Guidance">
 		<set name="icon" val="icon.weapon_r_dualdagger_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualdagger" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="2050" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -984,14 +984,14 @@
 	</item>
 	<item id="30060" type="Weapon" name="Apocalypse Dual Dagger - Guidance + Damage Up">
 		<set name="icon" val="icon.weapon_r_dualdagger_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualdagger" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="2050" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -1010,14 +1010,14 @@
 	</item>
 	<item id="30061" type="Weapon" name="Apocalypse Dual Blunt Weapon - Focus + Guidance">
 		<set name="icon" val="icon.weapon_r_dualblunt_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -1036,14 +1036,14 @@
 	</item>
 	<item id="30062" type="Weapon" name="Apocalypse Dual Blunt Weapon - Guidance + Damage Up">
 		<set name="icon" val="icon.weapon_r_dualblunt_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />
@@ -1062,14 +1062,14 @@
 	</item>
 	<item id="30063" type="Weapon" name="Apocalypse Dual Blunt Weapon - Damage Up + Focus">
 		<set name="icon" val="icon.weapon_r_dualblunt_i01" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1740" />
 		<set name="price" val="340000000" />
 		<set name="soulshots" val="1" />

@@ -29,14 +29,14 @@
 	</item>
 	<item id="17716" type="Weapon" name="Agninoa dual sword">
 		<set name="icon" val="icon.weapon_dual_sword_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="s80" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1" />
 		<set name="price" val="0" />
 		<set name="soulshots" val="1" />
@@ -53,14 +53,14 @@
 	</item>
 	<item id="17717" type="Weapon" name="Agninoa dual sword {PvP}">
 		<set name="icon" val="icon.weapon_dual_sword_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="s80" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="S80" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1" />
 		<set name="price" val="0" />
 		<set name="soulshots" val="1" />

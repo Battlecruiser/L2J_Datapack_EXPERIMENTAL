@@ -2,14 +2,14 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
 	<item id="30400" type="Weapon" name="Infinity Buster">
 		<set name="icon" val="icon.weapon_infinity_sword_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="sword" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1300" />
 		<set name="price" val="1640550000" />
 		<set name="soulshots" val="1" />
@@ -26,14 +26,14 @@
 	</item>
 	<item id="30401" type="Weapon" name="Infinity Caster">
 		<set name="icon" val="icon.weapon_the_mace_of_hero_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="blunt" />
 		<set name="bodypart" val="rhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;40;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1300" />
 		<set name="price" val="1640550000" />
 		<set name="soulshots" val="1" />
@@ -51,14 +51,14 @@
 	</item>
 	<item id="30402" type="Weapon" name="Infinity Retributer">
 		<set name="icon" val="icon.weapon_the_staff_of_hero_i00" />
-		<set name="default_action" val="equip" />
-		<set name="weapon_type" val="bigblunt" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="BLUNT" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1300" />
 		<set name="price" val="1640550000" />
 		<set name="soulshots" val="1" />
@@ -76,14 +76,14 @@
 	</item>
 	<item id="30403" type="Weapon" name="Infinity Dual Sword">
 		<set name="icon" val="icon.weapon_r_dualsword_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1300" />
 		<set name="price" val="1640550000" />
 		<set name="soulshots" val="1" />
@@ -100,14 +100,14 @@
 	</item>
 	<item id="30404" type="Weapon" name="Infinity Dual Dagger">
 		<set name="icon" val="icon.weapon_r_dualdagger_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dualdagger" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="10" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1300" />
 		<set name="price" val="1640550000" />
 		<set name="soulshots" val="1" />
@@ -125,14 +125,14 @@
 	</item>
 	<item id="30405" type="Weapon" name="Infinity Dual Blunt Weapon">
 		<set name="icon" val="icon.weapon_r_dualblunt_i00" />
-		<set name="default_action" val="equip" />
+		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="dual" />
 		<set name="bodypart" val="lrhand" />
 		<set name="random_damage" val="20" />
 		<set name="attack_range" val="40" />
 		<set name="damage_range" val="0;0;44;120" />
-		<set name="crystal_type" val="r" />
-		<set name="material" val="adamantaite" />
+		<set name="crystal_type" val="R" />
+		<set name="material" val="ADAMANTAITE" />
 		<set name="weight" val="1300" />
 		<set name="price" val="1640550000" />
 		<set name="soulshots" val="1" />
