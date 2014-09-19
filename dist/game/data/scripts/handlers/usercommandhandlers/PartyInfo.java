@@ -18,6 +18,7 @@
  */
 package handlers.usercommandhandlers;
 
+import com.l2jserver.Config;
 import com.l2jserver.gameserver.handler.IUserCommandHandler;
 import com.l2jserver.gameserver.model.L2Party;
 import com.l2jserver.gameserver.model.actor.instance.L2PcInstance;
@@ -72,7 +73,7 @@ public class PartyInfo implements IUserCommandHandler
 				sm.addPcName(party.getLeader());
 				activeChar.sendPacket(sm);
 			}
-			activeChar.sendMessage("Members: " + party.getMemberCount() + "/7"); // TODO: Custom? FIXME: Unhardcode max party size
+			activeChar.sendMessage("Members: " + party.getMemberCount() + "/" + Config.MAX_PARTY_MEMBERS); // TODO: Custom?
 		}
 		activeChar.sendPacket(SystemMessageId.FRIEND_LIST_FOOTER);
 		return true;
