@@ -15,6 +15,9 @@
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -48,6 +51,9 @@
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
+				<add order="0x10" stat="WIT" val="1" /> <!-- WIT + 1 -->
+				<add order="0x10" stat="INT" val="1" /> <!-- INT + 1 -->
+				<sub order="0x10" stat="MEN" val="2" /> <!-- MEN - 2 -->
 			</effect>
 		</for>
 	</skill>
@@ -65,6 +71,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<sub order="0x10" stat="CON" val="1" /> <!-- CON - 1 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -99,6 +107,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="CON" val="2" /> <!-- CON + 2 -->
+				<sub order="0x10" stat="STR" val="2" /> <!-- STR - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
@@ -119,6 +129,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="2" /> <!-- STR + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -145,6 +157,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -171,6 +186,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="2" /> <!-- STR + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -197,6 +214,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="1" /> <!-- CON - 1 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -231,6 +250,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="DEX" val="2" /> <!-- DEX + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
@@ -251,6 +272,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="DEX" val="2" /> <!-- DEX + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -276,6 +299,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="INT" val="1" /> <!-- INT + 1 -->
+				<sub order="0x10" stat="MEN" val="1" /> <!-- MEN - 1 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -303,6 +328,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="INT" val="2" /> <!-- INT - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -330,6 +357,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="INT" val="2" /> <!-- INT - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -357,6 +386,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="INT" val="2" /> <!-- INT - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -383,6 +414,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="INT" val="1" /> <!-- INT + 1 -->
+				<add order="0x10" stat="WIT" val="1" /> <!-- WIT + 1 -->
+				<sub order="0x10" stat="MEN" val="2" /> <!-- MEN - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -409,6 +443,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -436,6 +473,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -463,6 +503,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="WIT" val="1" /> <!-- WIT - 1 -->
+				<sub order="0x10" stat="INT" val="1" /> <!-- INT - 1 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -490,6 +533,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="CON" val="2" /> <!-- CON + 2 -->
+				<sub order="0x10" stat="STR" val="2" /> <!-- STR - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -524,6 +569,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="CON" val="2" /> <!-- CON + 2 -->
+				<sub order="0x10" stat="STR" val="2" /> <!-- STR - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
@@ -544,6 +591,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="2" /> <!-- STR + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -570,6 +619,8 @@
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
+				<add order="0x10" stat="STR" val="2" /> <!-- STR + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -596,6 +647,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -630,6 +684,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="DEX" val="2" /> <!-- DEX + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
@@ -650,6 +706,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="DEX" val="2" /> <!-- DEX + 2 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -676,6 +734,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -703,6 +764,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -730,6 +794,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="CON" val="2" /> <!-- CON + 2 -->
+				<sub order="0x10" stat="STR" val="2" /> <!-- STR - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -757,6 +823,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="WIT" val="1" /> <!-- WIT - 1 -->
+				<sub order="0x10" stat="INT" val="1" /> <!-- INT - 1 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -784,6 +853,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="INT" val="2" /> <!-- INT - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -811,6 +882,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="INT" val="2" /> <!-- INT - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -838,6 +911,8 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="MEN" val="2" /> <!-- MEN + 2 -->
+				<sub order="0x10" stat="INT" val="2" /> <!-- INT - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -864,6 +939,9 @@
 				<mul order="0x30" stat="pvpMagicalDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysSkillsDef" val="1.05" />
 				<mul order="0x30" stat="pvpPhysDef" val="1.05" />
+				<add order="0x10" stat="INT" val="1" /> <!-- INT + 1 -->
+				<add order="0x10" stat="WIT" val="1" /> <!-- WIT + 1 -->
+				<sub order="0x10" stat="MEN" val="2" /> <!-- MEN - 2 -->
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1625,6 +1703,8 @@
 				<mul order="0x30" stat="pAtk" val="1.0557" /> <!-- P. Atk. +5.57% -->
 				<mul order="0x30" stat="pDef" val="1.0557" /> <!-- P. Def. +5.57% -->
 				<add order="0x40" stat="maxHp" val="531" /> <!-- Max HP by 531 -->
+				<add order="0x10" stat="STR" val="2" /> <!-- STR + 2 -->
+				<sub order="0x10" stat="DEX" val="2" /> <!-- DEX - 2 -->
 			</effect>
 		</for>
 	</skill>
@@ -1644,6 +1724,8 @@
 				<add order="0x40" stat="accCombat" val="4" /> <!-- Increases Accuracy by 4 -->
 				<add order="0x40" stat="runSpd" val="5" /> <!-- Increases Speed by 5 -->
 				<mul order="0x30" stat="magicSuccRes" val="1.01" /> <!-- Resistance to magic damage by 1% -->
+				<add order="0x10" stat="STR" val="2" /> <!-- STR + 2 -->
+				<sub order="0x10" stat="DEX" val="2" /> <!-- DEX - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
@@ -1660,6 +1742,9 @@
 				<mul order="0x30" stat="pAtkSpd" val="1.05" /> <!-- Atk. Spd. +5% -->
 				<mul order="0x30" stat="regMp" val="1.05" /> <!-- MP Recovery Rate by 5% -->
 				<add order="0x40" stat="maxMp" val="347" /> <!-- Max MP by 347 -->
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 		</for>
 	</skill>
@@ -1678,6 +1763,9 @@
 				<add order="0x40" stat="maxMp" val="354" /> <!-- Max MP by 354 -->
 				<add order="0x40" stat="rEvas" val="3" /> <!-- Increases Evasion by 3 -->
 				<add order="0x40" stat="cAtkAdd" val="172" /> <!-- Increases Critical Damage by 172 -->
+				<add order="0x10" stat="STR" val="1" /> <!-- STR + 1 -->
+				<add order="0x10" stat="DEX" val="1" /> <!-- DEX + 1 -->
+				<sub order="0x10" stat="CON" val="2" /> <!-- CON - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
@@ -1695,6 +1783,9 @@
 				<mul order="0x30" stat="mAtkSpd" val="1.15" /> <!-- Casting Speed 15% -->
 				<mul order="0x30" stat="regMp" val="1.0557" /> <!-- MP Recovery Rate by 5.57% -->
 				<sub order="0x40" stat="cancel" val="30" /> <!-- decreases the damage to be cancelled by magic by 30 -->
+				<add order="0x10" stat="WIT" val="1" /> <!-- WIT + 1 -->
+				<add order="0x10" stat="INT" val="1" /> <!-- INT + 1 -->
+				<sub order="0x10" stat="MEN" val="2" /> <!-- MEN - 2 -->
 			</effect>
 		</for>
 	</skill>
@@ -1713,6 +1804,9 @@
 				<sub order="0x40" stat="cancel" val="30" /> <!-- decreases the damage to be cancelled by magic by 30 -->
 				<add order="0x40" stat="runSpd" val="7" /> <!-- Increases Speed by 7 -->
 				<mul order="0x30" stat="MagicalMpConsumeRate" val="0.97" /> <!-- Decreases MP consumption for magic skills by 3% -->
+				<add order="0x10" stat="WIT" val="1" /> <!-- WIT + 1 -->
+				<add order="0x10" stat="INT" val="1" /> <!-- INT + 1 -->
+				<sub order="0x10" stat="MEN" val="2" /> <!-- MEN - 2 -->
 			</effect>
 			<effect name="EnableCloak" />
 		</for>
