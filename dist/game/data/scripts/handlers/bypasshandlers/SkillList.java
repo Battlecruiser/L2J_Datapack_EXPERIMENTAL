@@ -22,6 +22,7 @@ import java.util.List;
 import java.util.logging.Level;
 
 import com.l2jserver.Config;
+import com.l2jserver.gameserver.datatables.ClassListData; // Update by rocknow (Class Name)
 import com.l2jserver.gameserver.datatables.SkillTreesData;
 import com.l2jserver.gameserver.handler.IBypassHandler;
 import com.l2jserver.gameserver.model.actor.L2Character;
@@ -31,7 +32,6 @@ import com.l2jserver.gameserver.model.actor.instance.L2PcInstance;
 import com.l2jserver.gameserver.model.base.ClassId;
 import com.l2jserver.gameserver.network.serverpackets.ActionFailed;
 import com.l2jserver.gameserver.network.serverpackets.NpcHtmlMessage;
-import com.l2jserver.gameserver.datatables.ClassListData; // Update by rocknow (Class Name)
 
 public class SkillList implements IBypassHandler
 {
@@ -103,7 +103,8 @@ public class SkillList implements IBypassHandler
 								text += "<a action=\"bypass -h npc_%objectId%_SkillList " + cid.getId() + "\">Learn " + ClassListData.getInstance().getClass(cid.getId()).getClassName() + "'s class Skills</a><br>\n";
 								count++;
 							}
-							classCheck = classCheck.getParent();
+							// STUBBED
+							classCheck = null; // classCheck.getParent();
 						}
 						classCheck = null;
 					}
