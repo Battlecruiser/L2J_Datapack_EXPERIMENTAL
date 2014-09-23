@@ -373,7 +373,7 @@ public class AdminEditChar implements IAdminCommandHandler
 				{
 					// 603 add start, looks like Ertheia female-only race
 					if ((classidval > 181) && (!player.getAppearance().getSex()))
-					{						
+					{
 						player.getAppearance().setSex(true);
 						player.sendMessage("A GM changed your gender to female.");
 					}
@@ -1001,7 +1001,7 @@ public class AdminEditChar implements IAdminCommandHandler
 		adminReply.replace("%xp%", String.valueOf(player.getExp()));
 		adminReply.replace("%sp%", String.valueOf(player.getSp()));
 		adminReply.replace("%class%", ClassListData.getInstance().getClass(player.getClassId()).getClientCode());
-		adminReply.replace("%ordinal%", String.valueOf(player.getClassId().ordinal()));
+		adminReply.replace("%ordinal%", String.valueOf(player.getClassId().getId()));
 		adminReply.replace("%classid%", String.valueOf(player.getClassId()));
 		adminReply.replace("%baseclass%", ClassListData.getInstance().getClass(player.getBaseClass()).getClientCode());
 		adminReply.replace("%x%", String.valueOf(player.getX()));
