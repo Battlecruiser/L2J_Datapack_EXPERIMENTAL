@@ -511,7 +511,7 @@
 		<skill skillName="Death Shot" skillId="990" skillLvl="1" getLevel="83" levelUpSp="100000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Inspector -->
-	<skillTree type="classSkillTree" classId="135" parentClassId="126">
+	<skillTree type="classSkillTree" classId="135">
 		<skill skillName="Thin Skin" skillId="1483" skillLvl="7" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
 	</skillTree>
 </list>

@@ -22,15 +22,15 @@
 		<skill skillName="Create Common Item" skillId="1320" skillLvl="9" getLevel="70" autoGet="true" />
 	</skillTree>
 	<!-- Marauder -->
-	<skillTree type="classSkillTree" classId="184" parentClassId="182">
+	<skillTree type="classSkillTree" classId="184">
 		<skill skillName="Lucky" skillId="194" skillLvl="1" getLevel="1" autoGet="true" />
 	</skillTree>
 	<!-- Ripper -->
-	<skillTree type="classSkillTree" classId="186" parentClassId="184">
+	<skillTree type="classSkillTree" classId="186">
 		<skill skillName="Lucky" skillId="194" skillLvl="1" getLevel="1" autoGet="true" />
 	</skillTree>
 	<!-- Eviscerator -->
-	<skillTree type="classSkillTree" classId="188" parentClassId="186">
+	<skillTree type="classSkillTree" classId="188">
 		<skill skillName="Expertise R" skillId="239" skillLvl="8" getLevel="85" autoGet="true" />
 		<skill skillName="Expertise R95" skillId="239" skillLvl="9" getLevel="95" autoGet="true" />
 		<skill skillName="Expertise R99" skillId="239" skillLvl="10" getLevel="99" autoGet="true" />

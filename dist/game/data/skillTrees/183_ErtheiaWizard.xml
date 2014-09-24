@@ -22,15 +22,15 @@
 		<skill skillName="Create Common Item" skillId="1320" skillLvl="9" getLevel="70" autoGet="true" />
 	</skillTree>
 	<!-- Cloud Breaker -->
-	<skillTree type="classSkillTree" classId="185" parentClassId="183">
+	<skillTree type="classSkillTree" classId="185">
 		<skill skillName="Lucky" skillId="194" skillLvl="1" getLevel="1" autoGet="true" />
 	</skillTree>
 	<!-- Stratomancer -->
-	<skillTree type="classSkillTree" classId="187" parentClassId="185">
+	<skillTree type="classSkillTree" classId="187">
 		<skill skillName="Lucky" skillId="194" skillLvl="1" getLevel="1" autoGet="true" />
 	</skillTree>
 	<!-- Sayha's Seer -->
-	<skillTree type="classSkillTree" classId="189" parentClassId="187">
+	<skillTree type="classSkillTree" classId="189">
 		<skill skillName="Expertise R" skillId="239" skillLvl="8" getLevel="85" autoGet="true" />
 		<skill skillName="Expertise R95" skillId="239" skillLvl="9" getLevel="95" autoGet="true" />
 		<skill skillName="Expertise R99" skillId="239" skillLvl="10" getLevel="99" autoGet="true" />

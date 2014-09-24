@@ -66,6 +66,7 @@
 													<xs:enumeration value="ORC" />
 													<xs:enumeration value="DWARF" />
 													<xs:enumeration value="KAMAEL" />
+													<xs:enumeration value="ERTHEIA" />
 												</xs:restriction>
 											</xs:simpleType>
 										</xs:element>
@@ -102,14 +103,6 @@
 							</xs:element>
 						</xs:sequence>
 						<xs:attribute name="classId">
-							<xs:simpleType>
-								<xs:restriction base="xs:nonNegativeInteger">
-									<xs:minInclusive value="0" />
-									<xs:maxInclusive value="189" /> <!-- l2jtw fix Max_Class-ID -->
-								</xs:restriction>
-							</xs:simpleType>
-						</xs:attribute>
-						<xs:attribute name="parentClassId">
 							<xs:simpleType>
 								<xs:restriction base="xs:nonNegativeInteger">
 									<xs:minInclusive value="0" />

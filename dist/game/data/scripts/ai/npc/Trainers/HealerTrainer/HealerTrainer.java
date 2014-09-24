@@ -82,6 +82,7 @@ public final class HealerTrainer extends AbstractNpcAI
 			}
 			case "SkillTransferLearn":
 			{
+				// FIXME: client is unable to learn skills from NPC now. Skills are learned in Learn skill window menu
 				if (!npc.getTemplate().canTeach(player.getClassId()))
 				{
 					htmltext = npc.getId() + "-noteach.html";
@@ -143,7 +144,7 @@ public final class HealerTrainer extends AbstractNpcAI
 				else
 				{
 					boolean hasSkills = false;
-					final Collection<L2SkillLearn> skills = SkillTreesData.getInstance().getTransferSkillTree(player.getClassId()).values();
+					final Collection<L2SkillLearn> skills = SkillTreesData.getInstance().getTransferSkillTree(player).values();
 					for (L2SkillLearn skillLearn : skills)
 					{
 						final Skill skill = player.getKnownSkill(skillLearn.getSkillId());

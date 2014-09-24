@@ -59,7 +59,7 @@
 		<skill skillName="Mortal Blow" skillId="16" skillLvl="9" getLevel="15" levelUpSp="1300" learnedByNpc="true" />
 	</skillTree>
 	<!-- Warrior -->
-	<skillTree type="classSkillTree" classId="1" parentClassId="0">
+	<skillTree type="classSkillTree" classId="1">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="257" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Polearm Mastery" skillId="216" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
@@ -167,7 +167,7 @@
 		<skill skillName="Lionheart" skillId="287" skillLvl="1" getLevel="36" levelUpSp="31000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Warlord -->
-	<skillTree type="classSkillTree" classId="3" parentClassId="1">
+	<skillTree type="classSkillTree" classId="3">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -509,7 +509,7 @@
 		<skill skillName="Power Crush" skillId="920" skillLvl="37" getLevel="74" levelUpSp="810000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Dreadnought -->
-	<skillTree type="classSkillTree" classId="89" parentClassId="3">
+	<skillTree type="classSkillTree" classId="89">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
@@ -525,7 +525,7 @@
 		<skill skillName="Symbol of Honor" skillId="457" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Gladiator -->
-	<skillTree type="classSkillTree" classId="2" parentClassId="1">
+	<skillTree type="classSkillTree" classId="2">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -1008,7 +1008,7 @@
 		<skill skillName="War Frenzy" skillId="424" skillLvl="3" getLevel="74" levelUpSp="1630000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Duelist -->
-	<skillTree type="classSkillTree" classId="88" parentClassId="2">
+	<skillTree type="classSkillTree" classId="88">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="10000000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="10000000" learnedByNpc="true" />
@@ -1024,7 +1024,7 @@
 		<skill skillName="Symbol of Energy" skillId="458" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Human Knight -->
-	<skillTree type="classSkillTree" classId="4" parentClassId="0">
+	<skillTree type="classSkillTree" classId="4">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLvl="1" getLevel="20" levelUpSp="4700" learnedByNpc="true" />
 		<skill skillName="Heavy Armor Mastery" skillId="232" skillLvl="1" getLevel="20" levelUpSp="1500" learnedByNpc="true" />
@@ -1121,7 +1121,7 @@
 		<skill skillName="Focus Mind" skillId="191" skillLvl="1" getLevel="36" levelUpSp="39000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Paladin -->
-	<skillTree type="classSkillTree" classId="5" parentClassId="4">
+	<skillTree type="classSkillTree" classId="5">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -1544,7 +1544,7 @@
 		<skill skillName="Angelic Icon" skillId="406" skillLvl="3" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Phoenix Knight -->
-	<skillTree type="classSkillTree" classId="90" parentClassId="5">
+	<skillTree type="classSkillTree" classId="90">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -1560,7 +1560,7 @@
 		<skill skillName="Symbol of Defense" skillId="454" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Dark Avenger -->
-	<skillTree type="classSkillTree" classId="6" parentClassId="4">
+	<skillTree type="classSkillTree" classId="6">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -1965,7 +1965,7 @@
 		<skill skillName="Banish Seraph" skillId="450" skillLvl="10" getLevel="74" levelUpSp="1630000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Hell Knight -->
-	<skillTree type="classSkillTree" classId="91" parentClassId="6">
+	<skillTree type="classSkillTree" classId="91">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -1981,7 +1981,7 @@
 		<skill skillName="Symbol of Defense" skillId="454" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Rogue -->
-	<skillTree type="classSkillTree" classId="7" parentClassId="0">
+	<skillTree type="classSkillTree" classId="7">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -2092,7 +2092,7 @@
 		<skill skillName="Unlock" skillId="27" skillLvl="5" getLevel="36" levelUpSp="31000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Treasure Hunter -->
-	<skillTree type="classSkillTree" classId="8" parentClassId="7">
+	<skillTree type="classSkillTree" classId="8">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Dagger Mastery" skillId="209" skillLvl="9" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
 		<skill skillName="Dagger Mastery" skillId="209" skillLvl="10" getLevel="40" levelUpSp="12000" learnedByNpc="true" />
@@ -2376,7 +2376,7 @@
 		<skill skillName="Remove Trap" skillId="624" skillLvl="1" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Adventurer -->
-	<skillTree type="classSkillTree" classId="93" parentClassId="8">
+	<skillTree type="classSkillTree" classId="93">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Blow" skillId="344" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -2391,7 +2391,7 @@
 		<skill skillName="Symbol of the Assassin" skillId="460" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Hawkeye -->
-	<skillTree type="classSkillTree" classId="9" parentClassId="7">
+	<skillTree type="classSkillTree" classId="9">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -2651,7 +2651,7 @@
 		<skill skillName="Detection" skillId="933" skillLvl="1" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Sagittarius -->
-	<skillTree type="classSkillTree" classId="92" parentClassId="9">
+	<skillTree type="classSkillTree" classId="92">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Shot" skillId="343" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -2726,7 +2726,7 @@
 		<skill skillName="Elemental Heal" skillId="58" skillLvl="3" getLevel="15" levelUpSp="1100" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elven Knight -->
-	<skillTree type="classSkillTree" classId="19" parentClassId="18">
+	<skillTree type="classSkillTree" classId="19">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLvl="1" getLevel="20" levelUpSp="4100" learnedByNpc="true" />
 		<skill skillName="Heavy Armor Mastery" skillId="232" skillLvl="1" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
@@ -2821,7 +2821,7 @@
 		<skill skillName="Entangle" skillId="102" skillLvl="1" getLevel="36" levelUpSp="39000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Temple Knight -->
-	<skillTree type="classSkillTree" classId="20" parentClassId="19">
+	<skillTree type="classSkillTree" classId="20">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -3212,7 +3212,7 @@
 		<skill skillName="Summon Attractive Cubic" skillId="449" skillLvl="4" getLevel="74" levelUpSp="1730000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Eva's Templar -->
-	<skillTree type="classSkillTree" classId="99" parentClassId="20">
+	<skillTree type="classSkillTree" classId="99">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -3228,7 +3228,7 @@
 		<skill skillName="Summon Smart Cubic" skillId="779" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Swordsinger -->
-	<skillTree type="classSkillTree" classId="21" parentClassId="19">
+	<skillTree type="classSkillTree" classId="21">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -3458,7 +3458,7 @@
 		<skill skillName="Psycho Symphony" skillId="407" skillLvl="10" getLevel="74" levelUpSp="3250000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Sword Muse -->
-	<skillTree type="classSkillTree" classId="100" parentClassId="21">
+	<skillTree type="classSkillTree" classId="100">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
@@ -3471,7 +3471,7 @@
 		<skill skillName="Symbol of Noise" skillId="455" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elven Scout -->
-	<skillTree type="classSkillTree" classId="22" parentClassId="18">
+	<skillTree type="classSkillTree" classId="22">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Bow Mastery" skillId="208" skillLvl="1" getLevel="20" levelUpSp="950" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLvl="2" getLevel="20" levelUpSp="950" learnedByNpc="true" />
@@ -3600,7 +3600,7 @@
 		<skill skillName="Unlock" skillId="27" skillLvl="5" getLevel="36" levelUpSp="26000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Plains Walker -->
-	<skillTree type="classSkillTree" classId="23" parentClassId="22">
+	<skillTree type="classSkillTree" classId="23">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -3956,7 +3956,7 @@
 		<skill skillName="Remove Trap" skillId="624" skillLvl="1" getLevel="74" levelUpSp="1630000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Wind Rider -->
-	<skillTree type="classSkillTree" classId="101" parentClassId="23">
+	<skillTree type="classSkillTree" classId="101">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Blow" skillId="344" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -3971,7 +3971,7 @@
 		<skill skillName="Symbol of the Assassin" skillId="460" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Silver Ranger -->
-	<skillTree type="classSkillTree" classId="24" parentClassId="22">
+	<skillTree type="classSkillTree" classId="24">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -4311,7 +4311,7 @@
 		<skill skillName="Detection" skillId="933" skillLvl="1" getLevel="74" levelUpSp="1860000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Moonlight Sentinel -->
-	<skillTree type="classSkillTree" classId="102" parentClassId="24">
+	<skillTree type="classSkillTree" classId="102">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Shot" skillId="343" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -4387,7 +4387,7 @@
 		<skill skillName="Shadow Sense" skillId="294" skillLvl="1" getLevel="15" levelUpSp="2900" learnedByNpc="true" />
 	</skillTree>
 	<!-- Palus Knight -->
-	<skillTree type="classSkillTree" classId="32" parentClassId="31">
+	<skillTree type="classSkillTree" classId="32">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="217" skillLvl="1" getLevel="20" levelUpSp="4700" learnedByNpc="true" />
 		<skill skillName="Heavy Armor Mastery" skillId="232" skillLvl="1" getLevel="20" levelUpSp="1500" learnedByNpc="true" />
@@ -4483,7 +4483,7 @@
 		<skill skillName="Power Break" skillId="115" skillLvl="2" getLevel="36" levelUpSp="28000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Shillien Knight -->
-	<skillTree type="classSkillTree" classId="33" parentClassId="32">
+	<skillTree type="classSkillTree" classId="33">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -4947,7 +4947,7 @@
 		<skill skillName="Banish Seraph" skillId="450" skillLvl="10" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Shilien Templar -->
-	<skillTree type="classSkillTree" classId="106" parentClassId="33">
+	<skillTree type="classSkillTree" classId="106">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -4963,7 +4963,7 @@
 		<skill skillName="Summon Smart Cubic" skillId="780" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Bladedancer -->
-	<skillTree type="classSkillTree" classId="34" parentClassId="32">
+	<skillTree type="classSkillTree" classId="34">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -5237,7 +5237,7 @@
 		<skill skillName="Demonic Blade Dance" skillId="408" skillLvl="10" getLevel="74" levelUpSp="2170000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Spectral Dancer -->
-	<skillTree type="classSkillTree" classId="107" parentClassId="34">
+	<skillTree type="classSkillTree" classId="107">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
@@ -5249,7 +5249,7 @@
 		<skill skillName="Symbol of Noise" skillId="455" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Assassin -->
-	<skillTree type="classSkillTree" classId="35" parentClassId="31">
+	<skillTree type="classSkillTree" classId="35">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Bow Mastery" skillId="208" skillLvl="1" getLevel="20" levelUpSp="950" learnedByNpc="true" />
 		<skill skillName="Bow Mastery" skillId="208" skillLvl="2" getLevel="20" levelUpSp="950" learnedByNpc="true" />
@@ -5380,7 +5380,7 @@
 		<skill skillName="Power Break" skillId="115" skillLvl="2" getLevel="36" levelUpSp="22000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Abyss Walker -->
-	<skillTree type="classSkillTree" classId="36" parentClassId="35">
+	<skillTree type="classSkillTree" classId="36">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -5796,7 +5796,7 @@
 		<skill skillName="Remove Trap" skillId="624" skillLvl="1" getLevel="74" levelUpSp="1180000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Ghost Hunter -->
-	<skillTree type="classSkillTree" classId="108" parentClassId="36">
+	<skillTree type="classSkillTree" classId="108">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Blow" skillId="344" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -5811,7 +5811,7 @@
 		<skill skillName="Symbol of the Assassin" skillId="460" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Phantom Ranger -->
-	<skillTree type="classSkillTree" classId="37" parentClassId="35">
+	<skillTree type="classSkillTree" classId="37">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -6186,7 +6186,7 @@
 		<skill skillName="Detection" skillId="933" skillLvl="1" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Ghost Sentinel -->
-	<skillTree type="classSkillTree" classId="109" parentClassId="37">
+	<skillTree type="classSkillTree" classId="109">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Lethal Shot" skillId="343" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -6251,7 +6251,7 @@
 		<skill skillName="Iron Body" skillId="295" skillLvl="1" getLevel="15" levelUpSp="4000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Orc Raider -->
-	<skillTree type="classSkillTree" classId="45" parentClassId="44">
+	<skillTree type="classSkillTree" classId="45">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="257" skillLvl="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
 		<skill skillName="Polearm Mastery" skillId="216" skillLvl="1" getLevel="20" levelUpSp="3400" learnedByNpc="true" />
@@ -6366,7 +6366,7 @@
 		<skill skillName="Lionheart" skillId="287" skillLvl="1" getLevel="36" levelUpSp="17000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Destroyer -->
-	<skillTree type="classSkillTree" classId="46" parentClassId="45">
+	<skillTree type="classSkillTree" classId="46">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -6742,7 +6742,7 @@
 		<skill skillName="War Frenzy" skillId="424" skillLvl="3" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Titan -->
-	<skillTree type="classSkillTree" classId="113" parentClassId="46">
+	<skillTree type="classSkillTree" classId="113">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="10000000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="10000000" learnedByNpc="true" />
@@ -6757,7 +6757,7 @@
 		<skill skillName="Symbol of Resistance" skillId="456" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Orc Monk -->
-	<skillTree type="classSkillTree" classId="47" parentClassId="44">
+	<skillTree type="classSkillTree" classId="47">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Fist Weapon Mastery" skillId="210" skillLvl="1" getLevel="20" levelUpSp="5300" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="233" skillLvl="1" getLevel="20" levelUpSp="2600" learnedByNpc="true" />
@@ -6835,7 +6835,7 @@
 		<skill skillName="Boost Attack Speed" skillId="168" skillLvl="1" getLevel="36" levelUpSp="39000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Tyrant -->
-	<skillTree type="classSkillTree" classId="48" parentClassId="47">
+	<skillTree type="classSkillTree" classId="48">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -7178,7 +7178,7 @@
 		<skill skillName="Hawk Spirit Totem" skillId="425" skillLvl="1" getLevel="74" levelUpSp="2000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Grand Khavatari -->
-	<skillTree type="classSkillTree" classId="114" parentClassId="48">
+	<skillTree type="classSkillTree" classId="114">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
@@ -7228,7 +7228,7 @@
 		<skill skillName="Armor Mastery" skillId="142" skillLvl="5" getLevel="15" levelUpSp="3300" learnedByNpc="true" />
 	</skillTree>
 	<!-- Scavenger -->
-	<skillTree type="classSkillTree" classId="54" parentClassId="53">
+	<skillTree type="classSkillTree" classId="54">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="205" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Polearm Mastery" skillId="216" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
@@ -7319,7 +7319,7 @@
 		<skill skillName="Spoil Festival" skillId="302" skillLvl="2" getLevel="36" levelUpSp="35000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Bounty Hunter -->
-	<skillTree type="classSkillTree" classId="55" parentClassId="54">
+	<skillTree type="classSkillTree" classId="55">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -7656,7 +7656,7 @@
 		<skill skillName="Collector's Experience" skillId="952" skillLvl="5" getLevel="74" levelUpSp="1900000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Fortune Seeker -->
-	<skillTree type="classSkillTree" classId="117" parentClassId="55">
+	<skillTree type="classSkillTree" classId="117">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -7672,7 +7672,7 @@
 		<skill skillName="Symbol of Resistance" skillId="456" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Artisan -->
-	<skillTree type="classSkillTree" classId="56" parentClassId="53">
+	<skillTree type="classSkillTree" classId="56">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Sword/Blunt Weapon Mastery" skillId="205" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Polearm Mastery" skillId="216" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
@@ -7763,7 +7763,7 @@
 		<skill skillName="Summon Mechanic Golem" skillId="25" skillLvl="2" getLevel="36" levelUpSp="34000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Warsmith -->
-	<skillTree type="classSkillTree" classId="57" parentClassId="56">
+	<skillTree type="classSkillTree" classId="57">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -8116,7 +8116,7 @@
 		<skill skillName="Fatal Strike" skillId="190" skillLvl="37" getLevel="74" levelUpSp="1000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Maestro -->
-	<skillTree type="classSkillTree" classId="118" parentClassId="57">
+	<skillTree type="classSkillTree" classId="118">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="10000000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="10000000" learnedByNpc="true" />
@@ -8185,7 +8185,7 @@
 		<skill skillName="Fallen Arrow" skillId="1431" skillLvl="6" getLevel="15" levelUpSp="1700" learnedByNpc="true" />
 	</skillTree>
 	<!-- Trooper -->
-	<skillTree type="classSkillTree" classId="125" parentClassId="123">
+	<skillTree type="classSkillTree" classId="125">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Ancient Sword Mastery" skillId="472" skillLvl="1" getLevel="20" levelUpSp="3700" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="465" skillLvl="1" getLevel="20" levelUpSp="1800" learnedByNpc="true" />
@@ -8297,7 +8297,7 @@
 		<skill skillName="Surrender to Dark" skillId="1445" skillLvl="3" getLevel="36" levelUpSp="22100" learnedByNpc="true" />
 	</skillTree>
 	<!-- Berserker -->
-	<skillTree type="classSkillTree" classId="127" parentClassId="125">
+	<skillTree type="classSkillTree" classId="127">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -8678,7 +8678,7 @@
 		<skill skillName="Spread Wing" skillId="492" skillLvl="25" getLevel="74" levelUpSp="930000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Doombringer -->
-	<skillTree type="classSkillTree" classId="131" parentClassId="127">
+	<skillTree type="classSkillTree" classId="131">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8340000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8340000" learnedByNpc="true" />
@@ -8691,7 +8691,7 @@
 		<skill skillName="Final Form" skillId="538" skillLvl="1" getLevel="79" levelUpSp="60000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Male Soul Breaker -->
-	<skillTree type="classSkillTree" classId="128" parentClassId="125">
+	<skillTree type="classSkillTree" classId="128">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -9086,7 +9086,7 @@
 		<skill skillName="Soul Web" skillId="1529" skillLvl="7" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Male Soul Hound -->
-	<skillTree type="classSkillTree" classId="132" parentClassId="128">
+	<skillTree type="classSkillTree" classId="132">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
@@ -9157,7 +9157,7 @@
 		<skill skillName="Defuse Trap" skillId="471" skillLvl="1" getLevel="15" levelUpSp="1250" learnedByNpc="true" />
 	</skillTree>
 	<!-- Warder -->
-	<skillTree type="classSkillTree" classId="126" parentClassId="124">
+	<skillTree type="classSkillTree" classId="126">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Crossbow Mastery" skillId="473" skillLvl="1" getLevel="20" levelUpSp="4100" learnedByNpc="true" />
 		<skill skillName="Light Armor Mastery" skillId="465" skillLvl="1" getLevel="20" levelUpSp="2100" learnedByNpc="true" />
@@ -9276,7 +9276,7 @@
 		<skill skillName="Ultimate Escape" skillId="622" skillLvl="1" getLevel="36" levelUpSp="19000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Arbalester -->
-	<skillTree type="classSkillTree" classId="130" parentClassId="126">
+	<skillTree type="classSkillTree" classId="130">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -9659,7 +9659,7 @@
 		<skill skillName="Imbue Seed of Destruction" skillId="835" skillLvl="4" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Trickster -->
-	<skillTree type="classSkillTree" classId="134" parentClassId="130">
+	<skillTree type="classSkillTree" classId="134">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -9671,7 +9671,7 @@
 		<skill skillName="Final Form" skillId="538" skillLvl="1" getLevel="79" levelUpSp="60000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Female Soul Breaker -->
-	<skillTree type="classSkillTree" classId="129" parentClassId="126">
+	<skillTree type="classSkillTree" classId="129">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -10066,7 +10066,7 @@
 		<skill skillName="Soul Web" skillId="1529" skillLvl="7" getLevel="74" levelUpSp="1440000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Female Soul Hound -->
-	<skillTree type="classSkillTree" classId="133" parentClassId="129">
+	<skillTree type="classSkillTree" classId="133">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
@@ -10080,7 +10080,7 @@
 		<skill skillName="Lightning Barrier" skillId="1515" skillLvl="1" getLevel="80" levelUpSp="100000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Inspector -->
-	<skillTree type="classSkillTree" classId="135" parentClassId="126">
+	<skillTree type="classSkillTree" classId="135">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -10378,7 +10378,7 @@
 		<skill skillName="Spite" skillId="1485" skillLvl="3" getLevel="74" levelUpSp="2360000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Judicator -->
-	<skillTree type="classSkillTree" classId="136" parentClassId="135">
+	<skillTree type="classSkillTree" classId="136">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
@@ -10451,7 +10451,7 @@
 		<skill skillName="Curse Weakness" skillId="1164" skillLvl="1" getLevel="14" levelUpSp="2100" learnedByNpc="true" />
 	</skillTree>
 	<!-- Human Wizard -->
-	<skillTree type="classSkillTree" classId="11" parentClassId="10">
+	<skillTree type="classSkillTree" classId="11">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="249" skillLvl="3" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="234" skillLvl="1" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
@@ -10577,7 +10577,7 @@
 		<skill skillName="Corpse Life Drain" skillId="1151" skillLvl="2" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Sorcerer -->
-	<skillTree type="classSkillTree" classId="12" parentClassId="11">
+	<skillTree type="classSkillTree" classId="12">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -10960,7 +10960,7 @@
 		<skill skillName="Aura Flash" skillId="1417" skillLvl="5" getLevel="74" levelUpSp="1150000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Archmage -->
-	<skillTree type="classSkillTree" classId="94" parentClassId="12">
+	<skillTree type="classSkillTree" classId="94">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="12500000" learnedByNpc="true" />
 		<skill skillName="Skill Mastery" skillId="331" skillLvl="1" getLevel="77" levelUpSp="18000000" learnedByNpc="true" />
@@ -10974,7 +10974,7 @@
 		<skill skillName="Volcano" skillId="1419" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Necromancer -->
-	<skillTree type="classSkillTree" classId="13" parentClassId="11">
+	<skillTree type="classSkillTree" classId="13">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -11431,7 +11431,7 @@
 		<skill skillName="Mass Gloom" skillId="1382" skillLvl="5" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Soultaker -->
-	<skillTree type="classSkillTree" classId="95" parentClassId="13">
+	<skillTree type="classSkillTree" classId="95">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -11448,7 +11448,7 @@
 		<skill skillName="Gehenna" skillId="1423" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Warlock -->
-	<skillTree type="classSkillTree" classId="14" parentClassId="11">
+	<skillTree type="classSkillTree" classId="14">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -11803,7 +11803,7 @@
 		<skill skillName="Arcane Disruption" skillId="1386" skillLvl="10" getLevel="74" levelUpSp="1350000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Arcana Lord -->
-	<skillTree type="classSkillTree" classId="96" parentClassId="14">
+	<skillTree type="classSkillTree" classId="96">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Sigil Mastery" skillId="934" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -11819,7 +11819,7 @@
 		<skill skillName="Summon Smart Cubic" skillId="781" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Cleric -->
-	<skillTree type="classSkillTree" classId="15" parentClassId="10">
+	<skillTree type="classSkillTree" classId="15">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="249" skillLvl="3" getLevel="20" levelUpSp="3300" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="235" skillLvl="1" getLevel="20" levelUpSp="1600" learnedByNpc="true" />
@@ -11943,7 +11943,7 @@
 		<skill skillName="Peace" skillId="1075" skillLvl="1" getLevel="35" levelUpSp="21000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Bishop -->
-	<skillTree type="classSkillTree" classId="16" parentClassId="15">
+	<skillTree type="classSkillTree" classId="16">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -12450,7 +12450,7 @@
 		<skill skillName="Major Group Heal" skillId="1402" skillLvl="5" getLevel="74" levelUpSp="880000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Cardinal -->
-	<skillTree type="classSkillTree" classId="97" parentClassId="16">
+	<skillTree type="classSkillTree" classId="97">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -12469,7 +12469,7 @@
 		<skill skillName="Miracle" skillId="1426" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Prophet -->
-	<skillTree type="classSkillTree" classId="17" parentClassId="15">
+	<skillTree type="classSkillTree" classId="17">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -12805,7 +12805,7 @@
 		<skill skillName="Mana Burn" skillId="1398" skillLvl="10" getLevel="74" levelUpSp="1530000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Hierophant -->
-	<skillTree type="classSkillTree" classId="98" parentClassId="17">
+	<skillTree type="classSkillTree" classId="98">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -12882,7 +12882,7 @@
 		<skill skillName="Wind Shackle" skillId="1206" skillLvl="1" getLevel="14" levelUpSp="2100" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elven Wizard -->
-	<skillTree type="classSkillTree" classId="26" parentClassId="25">
+	<skillTree type="classSkillTree" classId="26">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="249" skillLvl="3" getLevel="20" levelUpSp="3100" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="234" skillLvl="1" getLevel="20" levelUpSp="1500" learnedByNpc="true" />
@@ -13001,7 +13001,7 @@
 		<skill skillName="Wind Shackle" skillId="1206" skillLvl="5" getLevel="35" levelUpSp="19500" learnedByNpc="true" />
 	</skillTree>
 	<!-- Spellsinger -->
-	<skillTree type="classSkillTree" classId="27" parentClassId="26">
+	<skillTree type="classSkillTree" classId="27">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -13439,7 +13439,7 @@
 		<skill skillName="Aura Flash" skillId="1417" skillLvl="5" getLevel="74" levelUpSp="1000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Mystic Muse -->
-	<skillTree type="classSkillTree" classId="103" parentClassId="27">
+	<skillTree type="classSkillTree" classId="103">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Sigil Mastery" skillId="925" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
@@ -13455,7 +13455,7 @@
 		<skill skillName="Raging Waves" skillId="1421" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elemental Summoner -->
-	<skillTree type="classSkillTree" classId="28" parentClassId="26">
+	<skillTree type="classSkillTree" classId="28">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -13815,7 +13815,7 @@
 		<skill skillName="Mass Surrender to Water" skillId="1384" skillLvl="5" getLevel="74" levelUpSp="1350000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elemental Master -->
-	<skillTree type="classSkillTree" classId="104" parentClassId="28">
+	<skillTree type="classSkillTree" classId="104">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Sigil Mastery" skillId="934" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
@@ -13830,7 +13830,7 @@
 		<skill skillName="Summon Smart Cubic" skillId="782" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elven Oracle -->
-	<skillTree type="classSkillTree" classId="29" parentClassId="25">
+	<skillTree type="classSkillTree" classId="29">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="249" skillLvl="3" getLevel="20" levelUpSp="3300" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="235" skillLvl="1" getLevel="20" levelUpSp="1600" learnedByNpc="true" />
@@ -13959,7 +13959,7 @@
 		<skill skillName="Decrease Weight" skillId="1257" skillLvl="1" getLevel="35" levelUpSp="21000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elven Elder -->
-	<skillTree type="classSkillTree" classId="30" parentClassId="29">
+	<skillTree type="classSkillTree" classId="30">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -14428,7 +14428,7 @@
 		<skill skillName="Greater Heal" skillId="1217" skillLvl="33" getLevel="74" levelUpSp="520000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Eva's Saint -->
-	<skillTree type="classSkillTree" classId="105" parentClassId="30">
+	<skillTree type="classSkillTree" classId="105">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -14508,7 +14508,7 @@
 		<skill skillName="Wind Shackle" skillId="1206" skillLvl="1" getLevel="14" levelUpSp="1900" learnedByNpc="true" />
 	</skillTree>
 	<!-- Dark Wizard -->
-	<skillTree type="classSkillTree" classId="39" parentClassId="38">
+	<skillTree type="classSkillTree" classId="39">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="249" skillLvl="3" getLevel="20" levelUpSp="3100" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="234" skillLvl="1" getLevel="20" levelUpSp="1500" learnedByNpc="true" />
@@ -14633,7 +14633,7 @@
 		<skill skillName="Wind Shackle" skillId="1206" skillLvl="5" getLevel="35" levelUpSp="17600" learnedByNpc="true" />
 	</skillTree>
 	<!-- Spellhowler -->
-	<skillTree type="classSkillTree" classId="40" parentClassId="39">
+	<skillTree type="classSkillTree" classId="40">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -15064,7 +15064,7 @@
 		<skill skillName="Aura Flash" skillId="1417" skillLvl="5" getLevel="74" levelUpSp="1000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Storm Screamer -->
-	<skillTree type="classSkillTree" classId="110" parentClassId="40">
+	<skillTree type="classSkillTree" classId="110">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -15081,7 +15081,7 @@
 		<skill skillName="Cyclone" skillId="1420" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Phantom Summoner -->
-	<skillTree type="classSkillTree" classId="41" parentClassId="39">
+	<skillTree type="classSkillTree" classId="41">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -15458,7 +15458,7 @@
 		<skill skillName="Death Spike" skillId="1530" skillLvl="13" getLevel="74" levelUpSp="1210000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Spectral Master -->
-	<skillTree type="classSkillTree" classId="111" parentClassId="41">
+	<skillTree type="classSkillTree" classId="111">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -15474,7 +15474,7 @@
 		<skill skillName="Summon Smart Cubic" skillId="783" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Shillien Oracle -->
-	<skillTree type="classSkillTree" classId="42" parentClassId="38">
+	<skillTree type="classSkillTree" classId="42">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="249" skillLvl="3" getLevel="20" levelUpSp="3300" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="235" skillLvl="1" getLevel="20" levelUpSp="1600" learnedByNpc="true" />
@@ -15602,7 +15602,7 @@
 		<skill skillName="Resist Wind" skillId="1189" skillLvl="1" getLevel="35" levelUpSp="23000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Shillien Elder -->
-	<skillTree type="classSkillTree" classId="43" parentClassId="42">
+	<skillTree type="classSkillTree" classId="43">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -15968,7 +15968,7 @@
 		<skill skillName="Greater Heal" skillId="1217" skillLvl="33" getLevel="74" levelUpSp="820000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Shilien Saint -->
-	<skillTree type="classSkillTree" classId="112" parentClassId="43">
+	<skillTree type="classSkillTree" classId="112">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -16039,7 +16039,7 @@
 		<skill skillName="Venom" skillId="1095" skillLvl="2" getLevel="14" levelUpSp="1800" learnedByNpc="true" />
 	</skillTree>
 	<!-- Orc Shaman -->
-	<skillTree type="classSkillTree" classId="50" parentClassId="49">
+	<skillTree type="classSkillTree" classId="50">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Weapon Mastery" skillId="250" skillLvl="3" getLevel="20" levelUpSp="2900" learnedByNpc="true" />
 		<skill skillName="Robe Mastery" skillId="251" skillLvl="5" getLevel="20" levelUpSp="1400" learnedByNpc="true" />
@@ -16148,7 +16148,7 @@
 		<skill skillName="Aura Sink" skillId="1102" skillLvl="2" getLevel="35" levelUpSp="18000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Overlord -->
-	<skillTree type="classSkillTree" classId="51" parentClassId="50">
+	<skillTree type="classSkillTree" classId="51">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -16645,7 +16645,7 @@
 		<skill skillName="Ritual of Life" skillId="1306" skillLvl="6" getLevel="74" levelUpSp="900000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Dominator -->
-	<skillTree type="classSkillTree" classId="115" parentClassId="51">
+	<skillTree type="classSkillTree" classId="115">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="6250000" learnedByNpc="true" />
@@ -16664,7 +16664,7 @@
 		<skill skillName="Flames of Invincibility" skillId="1427" skillLvl="1" getLevel="80" levelUpSp="150000000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Warcryer -->
-	<skillTree type="classSkillTree" classId="52" parentClassId="50">
+	<skillTree type="classSkillTree" classId="52">
 		<!-- Confirmed CT2.5 -->
 		<skill skillName="Divine Inspiration" skillId="1405" skillLvl="1" getLevel="52" learnedByNpc="true">
 			<item id="8618" count="1" />
@@ -17039,7 +17039,7 @@
 		<skill skillName="Earth Chant" skillId="1391" skillLvl="3" getLevel="74" levelUpSp="1300000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Doomcryer -->
-	<skillTree type="classSkillTree" classId="116" parentClassId="52">
+	<skillTree type="classSkillTree" classId="116">
 		<!-- Confirmed CT2.5 and Updated to H5 -->
 		<skill skillName="Wisdom" skillId="328" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />
 		<skill skillName="Health" skillId="329" skillLvl="1" getLevel="76" levelUpSp="8300000" learnedByNpc="true" />

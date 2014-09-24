@@ -86,7 +86,7 @@ public final class SkillTransfer extends AbstractNpcAI
 			long count = PORMANDERS[index].getCount() - player.getInventory().getInventoryItemCount(PORMANDERS[index].getId(), -1, false);
 			for (Skill sk : player.getAllSkills())
 			{
-				for (L2SkillLearn s : SkillTreesData.getInstance().getTransferSkillTree(player.getClassId()).values())
+				for (L2SkillLearn s : SkillTreesData.getInstance().getTransferSkillTree(player).values())
 				{
 					if (s.getSkillId() == sk.getId())
 					{
