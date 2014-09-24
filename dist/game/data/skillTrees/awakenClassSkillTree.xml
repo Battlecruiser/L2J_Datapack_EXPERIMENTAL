@@ -18,7 +18,7 @@
 	</skillTree>
 	<!-- FIXME: inspect this! -->
 	<!-- Legacy AWA class, probably used for amother thing -->
-	<skillTree type="classSkillTree" classId="144" parentClassId="136">
+	<skillTree type="classSkillTree" classId="144">
 		<skill skillName="Expertise R" skillId="239" skillLvl="8" getLevel="85" autoGet="true" />
 		<skill skillName="Expertise R95" skillId="239" skillLvl="9" getLevel="95" autoGet="true" />
 		<skill skillName="Expertise R99" skillId="239" skillLvl="10" getLevel="99" autoGet="true" />
@@ -54,34 +54,34 @@
 		<skill skillName="Summon Wild Hog Cannon" skillId="19089" skillLvl="1" getLevel="85" autoGet="true" />
 		<skill skillName="Summon Swoop Cannon" skillId="19090" skillLvl="1" getLevel="85" autoGet="true" />
 	</skillTree>
-	<skillTree type="classSkillTree" classId="21" parentClassId="19">
+	<skillTree type="classSkillTree" classId="21">
 		<skill skillName="Rhythm of Critical" skillId="1586" skillLvl="1" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Magic" skillId="1588" skillLvl="1" getLevel="52" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Combat" skillId="1590" skillLvl="1" getLevel="58" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Fighter" skillId="1592" skillLvl="1" getLevel="60" levelUpSp="240000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Start" skillId="1599" skillLvl="1" getLevel="65" levelUpSp="150000" learnedByNpc="true" />
 	</skillTree>
-	<skillTree type="classSkillTree" classId="34" parentClassId="32">
+	<skillTree type="classSkillTree" classId="34">
 		<skill skillName="Rhythm of Critical Dark" skillId="1585" skillLvl="1" getLevel="43" levelUpSp="42000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Magic Dark" skillId="1587" skillLvl="1" getLevel="52" levelUpSp="150000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Combat Dark" skillId="1589" skillLvl="1" getLevel="58" levelUpSp="180000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Fighter Dark" skillId="1591" skillLvl="1" getLevel="60" levelUpSp="240000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Start Dark" skillId="1598" skillLvl="1" getLevel="65" levelUpSp="150000" learnedByNpc="true" />
 	</skillTree>
-	<skillTree type="classSkillTree" classId="100" parentClassId="21">
+	<skillTree type="classSkillTree" classId="100">
 		<skill skillName="Rhythm of Revenge" skillId="1594" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Magician" skillId="1596" skillLvl="1" getLevel="80" levelUpSp="23000000" learnedByNpc="true" />
 	</skillTree>
-	<skillTree type="classSkillTree" classId="107" parentClassId="34">
+	<skillTree type="classSkillTree" classId="107">
 		<skill skillName="Rhythm of Revenge Dark" skillId="1593" skillLvl="1" getLevel="76" levelUpSp="8330000" learnedByNpc="true" />
 		<skill skillName="Rhythm of Magician Dark" skillId="1595" skillLvl="1" getLevel="80" levelUpSp="23000000" learnedByNpc="true" />
 	</skillTree>
-	<skillTree type="classSkillTree" classId="136" parentClassId="135">
+	<skillTree type="classSkillTree" classId="136">
 		<skill skillName="Soul Instinct" skillId="1600" skillLvl="1" getLevel="83" levelUpSp="199990" learnedByNpc="true" />
 	</skillTree>
 	 -->
 	<!-- Bishop --><!-- Skills from removed Inquisitor tranfsorm -->
-	<skillTree type="classSkillTree" classId="16" parentClassId="15">
+	<skillTree type="classSkillTree" classId="16">
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="1" getLevel="44" levelUpSp="43000" learnedByNpc="true" />
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="2" getLevel="48" levelUpSp="63000" learnedByNpc="true" />
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="3" getLevel="52" levelUpSp="84000" learnedByNpc="true" />
@@ -123,7 +123,7 @@
 		<skill skillName="Divine Flash" skillId="1528" skillLvl="13" getLevel="74" levelUpSp="880000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Elven Elder --><!-- Skills from removed Inquisitor tranfsorm -->
-	<skillTree type="classSkillTree" classId="30" parentClassId="29">
+	<skillTree type="classSkillTree" classId="30">
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="1" getLevel="44" levelUpSp="39000" learnedByNpc="true" />
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="2" getLevel="48" levelUpSp="63000" learnedByNpc="true" />
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="3" getLevel="52" levelUpSp="77000" learnedByNpc="true" />
@@ -165,7 +165,7 @@
 		<skill skillName="Divine Flash" skillId="1528" skillLvl="13" getLevel="74" levelUpSp="1050000" learnedByNpc="true" />
 	</skillTree>
 	<!-- Shillien Elder --><!-- Skills from removed Inquisitor tranfsorm -->
-	<skillTree type="classSkillTree" classId="43" parentClassId="42">
+	<skillTree type="classSkillTree" classId="43">
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="1" getLevel="44" levelUpSp="41000" learnedByNpc="true" />
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="2" getLevel="48" levelUpSp="80000" learnedByNpc="true" />
 		<skill skillName="Divine Punishment" skillId="1523" skillLvl="3" getLevel="52" levelUpSp="106000" learnedByNpc="true" />

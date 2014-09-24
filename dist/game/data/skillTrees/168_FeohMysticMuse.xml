@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/skillTrees.xsd">
 	<!-- FIXME: inspect this! -->
-	<skillTree type="classSkillTree" classId="168" parentClassId="103">
+	<skillTree type="classSkillTree" classId="168">
 		<skill skillName="Expertise R" skillId="239" skillLvl="8" getLevel="85" autoGet="true" />
 		<skill skillName="Expertise R95" skillId="239" skillLvl="9" getLevel="95" autoGet="true" />
 		<skill skillName="Expertise R99" skillId="239" skillLvl="10" getLevel="99" autoGet="true" />
