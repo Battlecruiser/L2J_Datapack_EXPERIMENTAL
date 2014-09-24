@@ -103,8 +103,7 @@ public class SkillList implements IBypassHandler
 								text += "<a action=\"bypass -h npc_%objectId%_SkillList " + cid.getId() + "\">Learn " + ClassListData.getInstance().getClass(cid.getId()).getClassName() + "'s class Skills</a><br>\n";
 								count++;
 							}
-							// STUBBED
-							classCheck = null; // classCheck.getParent();
+							classCheck = classCheck.isBaseClass() ? null : ClassId.getClassId(classCheck.getDefaultChain().getClassIds().get(classCheck.getDefaultChain().getClassIds().size() - 2));
 						}
 						classCheck = null;
 					}

@@ -143,7 +143,7 @@ public final class HealerTrainer extends AbstractNpcAI
 				else
 				{
 					boolean hasSkills = false;
-					final Collection<L2SkillLearn> skills = SkillTreesData.getInstance().getTransferSkillTree(player.getClassId()).values();
+					final Collection<L2SkillLearn> skills = SkillTreesData.getInstance().getTransferSkillTree(player).values();
 					for (L2SkillLearn skillLearn : skills)
 					{
 						final Skill skill = player.getKnownSkill(skillLearn.getSkillId());
