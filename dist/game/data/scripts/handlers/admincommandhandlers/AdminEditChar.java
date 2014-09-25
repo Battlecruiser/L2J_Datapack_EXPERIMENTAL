@@ -350,48 +350,20 @@ public class AdminEditChar implements IAdminCommandHandler
 			try
 			{
 				String val = command.substring(15).trim();
-				int classidval = Integer.parseInt(val);
-				L2Object target = activeChar.getTarget();
-				L2PcInstance player = null;
-				if (target instanceof L2PcInstance)
+				if (val.equalsIgnoreCase("170F"))
 				{
-					player = (L2PcInstance) target;
+					// Female variant of Feoh soulhound
+					if (!(setClass(activeChar, ClassId.femaleSoulhound.getId()) && setClass(activeChar, ClassId.FeohSoulhound.getId())))
+					{
+						return false;
+					}
 				}
 				else
 				{
-					return false;
-				}
-				boolean valid = false;
-				for (ClassId classid : ClassId.values())
-				{
-					if (classidval == classid.getId())
+					if (!setClass(activeChar, Integer.parseInt(val)))
 					{
-						valid = true;
+						return false;
 					}
-				}
-				if (valid && (player.getClassId().getId() != classidval))
-				{
-					// 603 add start, looks like Ertheia female-only race
-					if ((classidval > 181) && (!player.getAppearance().getSex()))
-					{
-						player.getAppearance().setSex(true);
-						player.sendMessage("A GM changed your gender to female.");
-					}
-					// 603 add end
-					player.setClassId(classidval);
-					if (!player.isSubClassActive())
-					{
-						player.setBaseClass(classidval);
-					}
-					String newclass = ClassListData.getInstance().getClass(player.getClassId()).getClassName();
-					player.storeMe();
-					player.sendMessage("A GM changed your class to " + newclass + ".");
-					player.broadcastUserInfo();
-					activeChar.sendMessage(player.getName() + " is a " + newclass + ".");
-				}
-				else
-				{
-					activeChar.sendMessage("Usage: //setclass <valid_new_classid>");
 				}
 			}
 			catch (StringIndexOutOfBoundsException e)
@@ -899,6 +871,58 @@ public class AdminEditChar implements IAdminCommandHandler
 			{
 				activeChar.sendMessage("Usage: //set_pvp_flag");
 			}
+		}
+		return true;
+	}
+	
+	/**
+	 * @param activeChar
+	 * @param classidval
+	 * @return
+	 */
+	private boolean setClass(L2PcInstance activeChar, int classidval)
+	{
+		L2Object target = activeChar.getTarget();
+		L2PcInstance player = null;
+		if (target instanceof L2PcInstance)
+		{
+			player = (L2PcInstance) target;
+		}
+		else
+		{
+			return false;
+		}
+		boolean valid = false;
+		for (ClassId classid : ClassId.values())
+		{
+			if (classidval == classid.getId())
+			{
+				valid = true;
+			}
+		}
+		if (valid && (player.getClassId().getId() != classidval))
+		{
+			// 603 add start, looks like Ertheia female-only race
+			if ((classidval > 181) && (!player.getAppearance().getSex()))
+			{
+				player.getAppearance().setSex(true);
+				player.sendMessage("A GM changed your gender to female.");
+			}
+			// 603 add end
+			player.setClassId(classidval);
+			if (!player.isSubClassActive())
+			{
+				player.setBaseClass(classidval);
+			}
+			String newclass = ClassListData.getInstance().getClass(player.getClassId()).getClassName();
+			player.storeMe();
+			player.sendMessage("A GM changed your class to " + newclass + ".");
+			player.broadcastUserInfo();
+			activeChar.sendMessage(player.getName() + " is a " + newclass + ".");
+		}
+		else
+		{
+			activeChar.sendMessage("Usage: //setclass <valid_new_classid>");
 		}
 		return true;
 	}
