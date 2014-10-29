@@ -72,6 +72,7 @@ import quests.Q00052_WilliesSpecialBait.Q00052_WilliesSpecialBait;
 import quests.Q00053_LinnaeusSpecialBait.Q00053_LinnaeusSpecialBait;
 import quests.Q00062_PathOfTheTrooper.Q00062_PathOfTheTrooper;
 import quests.Q00063_PathOfTheWarder.Q00063_PathOfTheWarder;
+import quests.Q00064_CertifiedBerserker.Q00064_CertifiedBerserker;
 import quests.Q00101_SwordOfSolidarity.Q00101_SwordOfSolidarity;
 import quests.Q00102_SeaOfSporesFever.Q00102_SeaOfSporesFever;
 import quests.Q00103_SpiritOfCraftsman.Q00103_SpiritOfCraftsman;
@@ -154,6 +155,13 @@ import quests.Q00197_SevenSignsTheSacredBookOfSeal.Q00197_SevenSignsTheSacredBoo
 import quests.Q00198_SevenSignsEmbryo.Q00198_SevenSignsEmbryo;
 import quests.Q00211_TrialOfTheChallenger.Q00211_TrialOfTheChallenger;
 import quests.Q00212_TrialOfDuty.Q00212_TrialOfDuty;
+import quests.Q00213_TrialOfTheSeeker.Q00213_TrialOfTheSeeker;
+import quests.Q00214_TrialOfTheScholar.Q00214_TrialOfTheScholar;
+import quests.Q00215_TrialOfThePilgrim.Q00215_TrialOfThePilgrim;
+import quests.Q00217_TestimonyOfTrust.Q00217_TestimonyOfTrust;
+import quests.Q00218_TestimonyOfLife.Q00218_TestimonyOfLife;
+import quests.Q00219_TestimonyOfFate.Q00219_TestimonyOfFate;
+import quests.Q00221_TestimonyOfProsperity.Q00221_TestimonyOfProsperity;
 import quests.Q00235_MimirsElixir.Q00235_MimirsElixir;
 import quests.Q00237_WindsOfChange.Q00237_WindsOfChange;
 import quests.Q00238_SuccessFailureOfBusiness.Q00238_SuccessFailureOfBusiness;
@@ -208,6 +216,7 @@ import quests.Q00295_DreamingOfTheSkies.Q00295_DreamingOfTheSkies;
 import quests.Q00296_TarantulasSpiderSilk.Q00296_TarantulasSpiderSilk;
 import quests.Q00297_GatekeepersFavor.Q00297_GatekeepersFavor;
 import quests.Q00298_LizardmensConspiracy.Q00298_LizardmensConspiracy;
+import quests.Q00299_GatherIngredientsForPie.Q00299_GatherIngredientsForPie;
 import quests.Q00300_HuntingLetoLizardman.Q00300_HuntingLetoLizardman;
 import quests.Q00303_CollectArrowheads.Q00303_CollectArrowheads;
 import quests.Q00306_CrystalOfFireAndIce.Q00306_CrystalOfFireAndIce;
@@ -235,6 +244,7 @@ import quests.Q00344_1000YearsTheEndOfLamentation.Q00344_1000YearsTheEndOfLament
 import quests.Q00347_GoGetTheCalculator.Q00347_GoGetTheCalculator;
 import quests.Q00350_EnhanceYourWeapon.Q00350_EnhanceYourWeapon;
 import quests.Q00354_ConquestOfAlligatorIsland.Q00354_ConquestOfAlligatorIsland;
+import quests.Q00356_DigUpTheSeaOfSpores.Q00356_DigUpTheSeaOfSpores;
 import quests.Q00357_WarehouseKeepersAmbition.Q00357_WarehouseKeepersAmbition;
 import quests.Q00358_IllegitimateChildOfTheGoddess.Q00358_IllegitimateChildOfTheGoddess;
 import quests.Q00359_ForASleeplessDeadman.Q00359_ForASleeplessDeadman;
@@ -270,6 +280,7 @@ import quests.Q00413_PathOfTheShillienOracle.Q00413_PathOfTheShillienOracle;
 import quests.Q00414_PathOfTheOrcRaider.Q00414_PathOfTheOrcRaider;
 import quests.Q00415_PathOfTheOrcMonk.Q00415_PathOfTheOrcMonk;
 import quests.Q00416_PathOfTheOrcShaman.Q00416_PathOfTheOrcShaman;
+import quests.Q00417_PathOfTheScavenger.Q00417_PathOfTheScavenger;
 import quests.Q00418_PathOfTheArtisan.Q00418_PathOfTheArtisan;
 import quests.Q00420_LittleWing.Q00420_LittleWing;
 import quests.Q00421_LittleWingsBigAdventure.Q00421_LittleWingsBigAdventure;
@@ -458,6 +469,7 @@ public class QuestMasterHandler
 		Q00053_LinnaeusSpecialBait.class,
 		Q00062_PathOfTheTrooper.class,
 		Q00063_PathOfTheWarder.class,
+		Q00064_CertifiedBerserker.class,
 		Q00101_SwordOfSolidarity.class,
 		Q00102_SeaOfSporesFever.class,
 		Q00103_SpiritOfCraftsman.class,
@@ -540,6 +552,13 @@ public class QuestMasterHandler
 		Q00198_SevenSignsEmbryo.class,
 		Q00211_TrialOfTheChallenger.class,
 		Q00212_TrialOfDuty.class,
+		Q00213_TrialOfTheSeeker.class,
+		Q00214_TrialOfTheScholar.class,
+		Q00215_TrialOfThePilgrim.class,
+		Q00217_TestimonyOfTrust.class,
+		Q00218_TestimonyOfLife.class,
+		Q00219_TestimonyOfFate.class,
+		Q00221_TestimonyOfProsperity.class,
 		Q00235_MimirsElixir.class,
 		Q00237_WindsOfChange.class,
 		Q00238_SuccessFailureOfBusiness.class,
@@ -594,6 +613,7 @@ public class QuestMasterHandler
 		Q00296_TarantulasSpiderSilk.class,
 		Q00297_GatekeepersFavor.class,
 		Q00298_LizardmensConspiracy.class,
+		Q00299_GatherIngredientsForPie.class,
 		Q00300_HuntingLetoLizardman.class,
 		Q00303_CollectArrowheads.class,
 		Q00306_CrystalOfFireAndIce.class,
@@ -621,6 +641,7 @@ public class QuestMasterHandler
 		Q00347_GoGetTheCalculator.class,
 		Q00350_EnhanceYourWeapon.class,
 		Q00354_ConquestOfAlligatorIsland.class,
+		Q00356_DigUpTheSeaOfSpores.class,
 		Q00357_WarehouseKeepersAmbition.class,
 		Q00358_IllegitimateChildOfTheGoddess.class,
 		Q00359_ForASleeplessDeadman.class,
@@ -656,6 +677,7 @@ public class QuestMasterHandler
 		Q00414_PathOfTheOrcRaider.class,
 		Q00415_PathOfTheOrcMonk.class,
 		Q00416_PathOfTheOrcShaman.class,
+		Q00417_PathOfTheScavenger.class,
 		Q00418_PathOfTheArtisan.class,
 		Q00420_LittleWing.class,
 		Q00421_LittleWingsBigAdventure.class,
