@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/armorSets.xsd">
+	<!-- A GRADE PVP Armor Sets -->
+	<set id="103">
+		<item id="10793" /> <!-- Armor of Nightmare {PvP} -->
+		<item id="2418" /> <!-- Helm of Nightmare -->
+		<item id="11481" /> <!-- Helm of Nightmare - Heavy -->
+		<item id="5771" /> <!-- Gauntlets of Nightmare - Heavy -->
+		<item id="11472" /> <!-- Gauntlet of Nightmare - Heavy -->
+		<item id="5783" /> <!-- Boots of Nightmare - Heavy -->
+		<item id="11477" /> <!-- Boots of Nightmare - Heavy -->
+		<bonus_item id="2498" /> <!-- Shield of Nightmare -->
+		<bonus_item id="11480" /> <!-- Shield of Nightmare -->
+		<skill set="4" id="3006" level="1" /> <!-- Equip Set Items -->
+		<skill set="4" id="8193" level="1" /> <!-- Nightmare Heavy Armor Set - PVP -->
+		<bonus_skill id="3551" level="1" /> <!-- Equipped with Shield -->
+		<enchant_skill enchantLevel="6" id="3620" level="1" /> <!-- Enchant Heavy Armor (A Grade) -->
+	</set>
+	<set id="104">
+		<item id="10794" /> <!-- Majestic Plate Armor {PvP} -->
+		<item id="2419" /> <!-- Majestic Circlet -->
+		<item id="11456" /> <!-- Majestic Circlet - Heavy -->
+		<item id="5774" /> <!-- Majestic Gauntlets - Heavy -->
+		<item id="11448" /> <!-- Majestic Gauntlet - Heavy -->
+		<item id="5786" /> <!-- Majestic Boots - Heavy -->
+		<item id="11453" /> <!-- Majestic Boots - Heavy -->
+		<skill set="4" id="3006" level="1" /> <!-- Equip Set Items -->
+		<skill set="4" id="8194" level="1" /> <!-- Majestic Heavy Armor Set - PVP -->
+		<enchant_skill enchantLevel="6" id="3620" level="1" /> <!-- Enchant Heavy Armor (A Grade) -->
+	</set>
+	<set id="105">
+		<item id="10795" /> <!-- Leather Armor of Nightmare {PvP} -->
+		<item id="2418" /> <!-- Helm of Nightmare -->
+		<item id="12992" /> <!-- Helm of Nightmare - Light Use -->
+		<item id="5772" /> <!-- Gauntlets of Nightmare - Light -->
+		<item id="11473" /> <!-- Gauntlet of Nightmare - Light Use -->
+		<item id="5784" /> <!-- Boots of Nightmare - Light -->
+		<item id="11478" /> <!-- Boots of Nightmare - Light Use -->
+		<skill set="4" id="3006" level="1" /> <!-- Equip Set Items -->
+		<skill set="4" id="8195" level="1" /> <!-- Light Armor of Nightmare Set - PVP -->
+		<enchant_skill enchantLevel="6" id="3621" level="1" /> <!-- Enchant Light Armor (A Grade) -->
+	</set>
+	<set id="106">
+		<item id="10796" /> <!-- Majestic Leather Armor {PvP} -->
+		<item id="2419" /> <!-- Majestic Circlet -->
+		<item id="12990" /> <!-- Majestic Circlet - Light Use -->
+		<item id="5775" /> <!-- Majestic Gauntlets - Light -->
+		<item id="11449" /> <!-- Majestic Gauntlet - Light Use -->
+		<item id="5787" /> <!-- Majestic Boots - Light -->
+		<item id="11454" /> <!-- Majestic Boots - Light Use -->
+		<skill set="4" id="3006" level="1" /> <!-- Equip Set Items -->
+		<skill set="4" id="8196" level="1" /> <!-- Light Majestic Leather Armor Set - PVP -->
+		<enchant_skill enchantLevel="6" id="3621" level="1" /> <!-- Enchant Light Armor (A Grade) -->
+	</set>
+	<set id="107">
+		<item id="10797" /> <!-- Robe of Nightmare {PvP} -->
+		<item id="2418" /> <!-- Helm of Nightmare -->
+		<item id="12993" /> <!-- Helm of Nightmare - Robe -->
+		<item id="5773" /> <!-- Gauntlets of Nightmare - Robe -->
+		<item id="11474" /> <!-- Gauntlet of Nightmare - Robe -->
+		<item id="5785" /> <!-- Boots of Nightmare - Robe -->
+		<item id="11479" /> <!-- Boots of Nightmare - Robe -->
+		<skill set="4" id="3006" level="1" /> <!-- Equip Set Items -->
+		<skill set="4" id="8197" level="1" /> <!-- Robe of Nightmare Set - PVP -->
+		<enchant_skill enchantLevel="6" id="3622" level="1" /> <!-- Enchant Robe (A Grade) -->
+	</set>
+	<set id="108">
+		<item id="10798" /> <!-- Majestic Robe {PvP} -->
+		<item id="2419" /> <!-- Majestic Circlet -->
+		<item id="12991" /> <!-- Majestic Circlet - Robe -->
+		<item id="5776" /> <!-- Majestic Gauntlets - Robe -->
+		<item id="11450" /> <!-- Majestic Gauntlet - Robe -->
+		<item id="5788" /> <!-- Majestic Boots - Robe -->
+		<item id="11455" /> <!-- Majestic Boots - Robe -->
+		<skill set="4" id="3006" level="1" /> <!-- Equip Set Items -->
+		<skill set="4" id="8198" level="1" /> <!-- Majestic Robe Set - PVP -->
+		<enchant_skill enchantLevel="6" id="3622" level="1" /> <!-- Enchant Robe (A Grade) -->
+	</set>
+</list>
