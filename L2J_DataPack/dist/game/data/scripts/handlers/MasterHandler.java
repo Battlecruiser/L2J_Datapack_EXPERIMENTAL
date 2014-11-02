@@ -163,6 +163,7 @@ import handlers.chathandlers.ChatAll;
 import handlers.chathandlers.ChatAlliance;
 import handlers.chathandlers.ChatBattlefield;
 import handlers.chathandlers.ChatClan;
+import handlers.chathandlers.ChatGlobal; // l2jtw add
 import handlers.chathandlers.ChatHeroVoice;
 import handlers.chathandlers.ChatParty;
 import handlers.chathandlers.ChatPartyMatchRoom;
@@ -172,7 +173,6 @@ import handlers.chathandlers.ChatPetition;
 import handlers.chathandlers.ChatShout;
 import handlers.chathandlers.ChatTell;
 import handlers.chathandlers.ChatTrade;
-import handlers.chathandlers.ChatGlobal; // l2jtw add
 import handlers.itemhandlers.BeastSoulShot;
 import handlers.itemhandlers.BeastSpiritShot;
 import handlers.itemhandlers.BlessedSpiritShot;
