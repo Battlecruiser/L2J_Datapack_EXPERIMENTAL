@@ -1053,7 +1053,7 @@
 		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="Buff">
-				<basemul order="0x30" stat="rCrit" val="0.3" />
+				<mul order="0x01" stat="rCrit" val="0.3" />
 				<mul order="0x30" stat="pAtkSpd" val="1.33" />
 			</effect>
 			<effect name="TriggerSkillByAttack">
@@ -1120,7 +1120,7 @@
 		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="Buff">
-				<basemul order="0x30" stat="rCrit" val="0.3" />
+				<mul order="0x01" stat="rCrit" val="0.3" />
 			</effect>
 		</for>
 	</skill>
