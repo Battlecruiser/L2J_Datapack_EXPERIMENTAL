@@ -1020,7 +1020,7 @@
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="20" />
-				<param skillId="5681" skillLevel="1" />
+				<param skillId="5681" skillLevel="1" /> <!-- PvP Weapon - CP Drain -->
 				<param targetType="SELF" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1031,13 +1031,12 @@
 		<set name="icon" val="icon.skill1056" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByAttack">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="10" />
-				<param skillId="5682" skillLevel="1" />
+				<param skillId="5682" skillLevel="1" /> <!-- PvP Weapon - Cancel -->
 				<param targetType="ONE" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1053,7 +1052,7 @@
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="20" />
-				<param skillId="5683" skillLevel="1" />
+				<param skillId="5683" skillLevel="1" /> <!-- PvP Weapon - Ignore Shield Defense -->
 				<param targetType="ONE" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1069,7 +1068,7 @@
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="10" />
-				<param skillId="5684" skillLevel="1" />
+				<param skillId="5684" skillLevel="1" /> <!-- PvP Weapon - Attack Chance -->
 				<param targetType="ONE" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1080,7 +1079,6 @@
 		<set name="icon" val="icon.skill0228" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1101,7 +1099,7 @@
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="10" />
-				<param skillId="5686" skillLevel="1" />
+				<param skillId="5686" skillLevel="1" /> <!-- PvP Weapon - Rapid Fire -->
 				<param targetType="SELF" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1117,7 +1115,7 @@
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="10" />
-				<param skillId="5687" skillLevel="1" />
+				<param skillId="5687" skillLevel="1" /> <!-- PvP Weapon - Decrease Range -->
 				<param targetType="ONE" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1128,13 +1126,12 @@
 		<set name="icon" val="icon.skill0756" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByAttack">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
 				<param isCritical="false" />
 				<param minDamage="50" chance="10" />
-				<param skillId="5688" skillLevel="1" />
+				<param skillId="5688" skillLevel="1" /> <!-- PvP Weapon - Decrease Resist -->
 				<param targetType="ONE" />
 				<param allowWeapons="ALL" />
 			</effect>
@@ -1145,7 +1142,6 @@
 		<set name="icon" val="icon.skill0086" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1161,7 +1157,6 @@
 		<set name="icon" val="icon.skill1040" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1177,7 +1172,6 @@
 		<set name="icon" val="icon.skill1242" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1193,12 +1187,11 @@
 		<set name="icon" val="icon.skill1011" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillBySkill">
-				<param castSkillId="1401" />
+				<param castSkillId="1401" /> <!-- Major Heal -->
 				<param chance="5" />
-				<param skillId="5692" skillLevel="1" />
+				<param skillId="5692" skillLevel="1" /> <!-- PvP Armor - Heal -->
 				<param targetType="ONE" />
 			</effect>
 		</for>
@@ -1208,7 +1201,6 @@
 		<set name="icon" val="icon.skill1160" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1224,7 +1216,6 @@
 		<set name="icon" val="icon.skill0445" />
 		<set name="magicLvl" val="80" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Playable" minAttackerLevel="1" maxAttackerLevel="100" />
@@ -1283,7 +1274,6 @@
 		<set name="icon" val="icon.etc_talisman_i02" />
 		<set name="magicLvl" val="1" />
 		<set name="operateType" val="P" />
-		<set name="targetType" val="SELF" />
 		<for>
 			<effect name="TriggerSkillByDamage">
 				<param attackerType="L2Character" minAttackerLevel="1" maxAttackerLevel="100" />

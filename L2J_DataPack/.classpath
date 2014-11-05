@@ -6,6 +6,5 @@
 	<classpathentry kind="lib" path="/L2J_Server_EXPERIMENTAL/dist/libs/javolution-5.5.1.jar" sourcepath="/L2J_Server_EXPERIMENTAL/dist/libs/javolution-5.5.1-src.zip"/>
 	<classpathentry kind="lib" path="/L2J_Server_EXPERIMENTAL/dist/libs/L2J_GeoAbstraction.jar"/>
 	<classpathentry kind="lib" path="/L2J_Server_EXPERIMENTAL/dist/libs/mmocore.jar"/>
-	<classpathentry kind="lib" path="/L2J_Server_EXPERIMENTAL/dist/libs/netcon-1.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
