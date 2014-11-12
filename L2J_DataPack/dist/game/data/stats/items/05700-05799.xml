@@ -64,12 +64,12 @@
 		<set name="spiritshots" val="1" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="259" />
-			<set order="0x08" stat="mAtk" val="107" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="259" />
+			<set stat="mAtk" val="107" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5705" type="Weapon" name="Keshanberk*Damascus">
@@ -91,12 +91,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="enchant4_skill" val="3013-3" />
 		<for>
-			<set order="0x08" stat="pAtk" val="275" />
-			<set order="0x08" stat="mAtk" val="112" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="275" />
+			<set stat="mAtk" val="112" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5706" type="Weapon" name="Damascus*Damascus">
@@ -118,12 +118,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="enchant4_skill" val="3046-20" />
 		<for>
-			<set order="0x08" stat="pAtk" val="282" />
-			<set order="0x08" stat="mAtk" val="114" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="282" />
+			<set stat="mAtk" val="114" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5707" type="EtcItem" name="Record of Seven Signs">
@@ -152,8 +152,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5710" type="Armor" name="Zubei's Gauntlets - Heavy Armor">
@@ -168,8 +168,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5711" type="Armor" name="Zubei's Gauntlets - Light Armor">
@@ -184,8 +184,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5712" type="Armor" name="Zubei's Gauntlets - Robe">
@@ -200,8 +200,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5713" type="Armor" name="Sealed Avadon Gloves">
@@ -216,8 +216,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5714" type="Armor" name="Avadon Gloves - Heavy Armor">
@@ -232,8 +232,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5715" type="Armor" name="Avadon Gloves - Light Armor">
@@ -248,8 +248,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5716" type="Armor" name="Avadon Gloves - Robe">
@@ -264,8 +264,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5717" type="Armor" name="Sealed Blue Wolf Gloves">
@@ -280,8 +280,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5718" type="Armor" name="Blue Wolf Gloves - Heavy Armor">
@@ -296,8 +296,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5719" type="Armor" name="Blue Wolf Gloves - Light Armor">
@@ -312,8 +312,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5720" type="Armor" name="Blue Wolf Gloves - Robe">
@@ -328,8 +328,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5721" type="Armor" name="Sealed Doom Gloves">
@@ -344,8 +344,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5722" type="Armor" name="Doom Gloves - Heavy Armor">
@@ -360,8 +360,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5723" type="Armor" name="Doom Gloves - Light Armor">
@@ -376,8 +376,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5724" type="Armor" name="Doom Gloves - Robe">
@@ -392,8 +392,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5725" type="Armor" name="Sealed Zubei's Boots">
@@ -408,8 +408,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5726" type="Armor" name="Zubei's Boots - Heavy Armor">
@@ -424,8 +424,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5727" type="Armor" name="Zubei's Boots - Light Armor">
@@ -440,8 +440,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5728" type="Armor" name="Zubei's Boots - Robe">
@@ -456,8 +456,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5729" type="Armor" name="Sealed Avadon Boots">
@@ -472,8 +472,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5730" type="Armor" name="Avadon Boots - Heavy Armor">
@@ -488,8 +488,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5731" type="Armor" name="Avadon Boots - Light Armor">
@@ -504,8 +504,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5732" type="Armor" name="Avadon Boots - Robe">
@@ -520,8 +520,8 @@
 		<set name="price" val="399100" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="41" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5733" type="Armor" name="Sealed Blue Wolf Boots">
@@ -536,8 +536,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5734" type="Armor" name="Blue Wolf Boots - Heavy Armor">
@@ -552,8 +552,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5735" type="Armor" name="Blue Wolf Boots - Light Armor">
@@ -568,8 +568,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5736" type="Armor" name="Blue Wolf Boots - Robe">
@@ -584,8 +584,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5737" type="Armor" name="Sealed Doom Boots">
@@ -600,8 +600,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5738" type="Armor" name="Doom Boots - Heavy Armor">
@@ -616,8 +616,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5739" type="Armor" name="Doom Boots - Light Armor">
@@ -632,8 +632,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5740" type="Armor" name="Doom Boots - Robe">
@@ -648,8 +648,8 @@
 		<set name="price" val="618800" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="44" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5741" type="EtcItem" name="Recipe: Sealed Zubei's Gauntlets (100%)">
@@ -896,8 +896,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5766" type="Armor" name="Dark Crystal Gloves - Light Armor">
@@ -912,8 +912,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5767" type="Armor" name="Dark Crystal Gloves - Robe">
@@ -928,8 +928,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5768" type="Armor" name="Tallum Gloves - Heavy Armor">
@@ -944,8 +944,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5769" type="Armor" name="Tallum Gloves - Light Armor">
@@ -960,8 +960,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5770" type="Armor" name="Tallum Gloves - Robe">
@@ -976,8 +976,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5771" type="Armor" name="Gauntlets of Nightmare - Heavy Armor">
@@ -992,8 +992,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5772" type="Armor" name="Gauntlets of Nightmare - Light Armor">
@@ -1008,8 +1008,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5773" type="Armor" name="Gauntlets of Nightmare - Robe">
@@ -1024,8 +1024,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5774" type="Armor" name="Majestic Gauntlets - Heavy Armor">
@@ -1040,8 +1040,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5775" type="Armor" name="Majestic Gauntlets - Light Armor">
@@ -1056,8 +1056,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5776" type="Armor" name="Majestic Gauntlets - Robe">
@@ -1072,8 +1072,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5777" type="Armor" name="Dark Crystal Boots - Heavy Armor">
@@ -1088,8 +1088,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5778" type="Armor" name="Dark Crystal Boots - Light Armor">
@@ -1104,8 +1104,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5779" type="Armor" name="Dark Crystal Boots - Robe">
@@ -1120,8 +1120,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5780" type="Armor" name="Tallum Boots - Heavy Armor">
@@ -1136,8 +1136,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5781" type="Armor" name="Tallum Boots - Light Armor">
@@ -1152,8 +1152,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5782" type="Armor" name="Tallum Boots - Robe">
@@ -1168,8 +1168,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="46" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5783" type="Armor" name="Boots of Nightmare - Heavy Armor">
@@ -1184,8 +1184,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5784" type="Armor" name="Boots of Nightmare - Light Armor">
@@ -1200,8 +1200,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5785" type="Armor" name="Boots of Nightmare - Robe">
@@ -1216,8 +1216,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5786" type="Armor" name="Majestic Boots - Heavy Armor">
@@ -1232,8 +1232,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5787" type="Armor" name="Majestic Boots - Light Armor">
@@ -1248,8 +1248,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5788" type="Armor" name="Majestic Boots - Robe">
@@ -1264,8 +1264,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5789" type="EtcItem" name="Soulshot: No Grade for Beginners">
@@ -1312,12 +1312,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="78" />
-			<set order="0x08" stat="mAtk" val="39" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="78" />
+			<set stat="mAtk" val="39" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5792" type="Weapon" name="Tomb Guard B">
@@ -1338,12 +1338,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="78" />
-			<set order="0x08" stat="mAtk" val="39" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="78" />
+			<set stat="mAtk" val="39" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5793" type="Weapon" name="Tomb Savant A">
@@ -1364,12 +1364,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="156" />
-			<set order="0x08" stat="mAtk" val="83" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="156" />
+			<set stat="mAtk" val="83" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5794" type="Weapon" name="Tomb Savant B">
@@ -1390,12 +1390,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="156" />
-			<set order="0x08" stat="mAtk" val="83" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="156" />
+			<set stat="mAtk" val="83" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5795" type="Weapon" name="Tomb Guard A">
@@ -1416,12 +1416,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="78" />
-			<set order="0x08" stat="mAtk" val="39" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="78" />
+			<set stat="mAtk" val="39" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5796" type="Weapon" name="Tomb Guard B">
@@ -1442,12 +1442,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="78" />
-			<set order="0x08" stat="mAtk" val="39" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="78" />
+			<set stat="mAtk" val="39" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5797" type="Weapon" name="Tomb Savant A">
@@ -1468,12 +1468,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="156" />
-			<set order="0x08" stat="mAtk" val="83" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="156" />
+			<set stat="mAtk" val="83" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5798" type="Weapon" name="Tomb Savant B">
@@ -1494,12 +1494,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="156" />
-			<set order="0x08" stat="mAtk" val="83" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="156" />
+			<set stat="mAtk" val="83" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="5799" type="Armor" name="Nephilim Lord">
@@ -1514,10 +1514,10 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="for_npc" val="true" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="142" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="142" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 </list>

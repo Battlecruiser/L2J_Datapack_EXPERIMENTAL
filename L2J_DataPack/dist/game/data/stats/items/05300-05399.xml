@@ -12,8 +12,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5301" type="Armor" name="Sealed Tallum Leather Armor">
@@ -29,8 +29,8 @@
 		<set name="price" val="4341000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="209" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="209" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5302" type="Armor" name="Sealed Gust Bracer">
@@ -45,8 +45,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5303" type="Armor" name="Sealed Gust Boots">
@@ -61,8 +61,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5304" type="Armor" name="Sealed Tallum Tunic">
@@ -78,9 +78,9 @@
 		<set name="price" val="2671000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="86" />
-			<add order="0x40" stat="maxMp" val="409" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="86" />
+			<add stat="maxMp" val="409" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5305" type="Armor" name="Sealed Tallum Stockings">
@@ -96,9 +96,9 @@
 		<set name="price" val="1670000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="53" />
-			<add order="0x40" stat="maxMp" val="256" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="53" />
+			<add stat="maxMp" val="256" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5306" type="Armor" name="Sealed Gloves of Black Ore">
@@ -113,8 +113,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5307" type="Armor" name="Sealed Red Flame Boots">
@@ -129,8 +129,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5308" type="Armor" name="Sealed Dark Crystal Robe">
@@ -146,9 +146,9 @@
 		<set name="price" val="4341000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="139" />
-			<add order="0x40" stat="maxMp" val="665" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5309" type="Armor" name="Sealed Phoenix Gloves">
@@ -163,8 +163,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5310" type="Armor" name="Sealed Phoenix Boots">
@@ -179,8 +179,8 @@
 		<set name="price" val="890000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="45" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="45" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5311" type="Armor" name="Sealed Armor of Nightmare">
@@ -196,8 +196,8 @@
 		<set name="price" val="8804000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="293" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="293" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5312" type="Armor" name="Sealed Helm of Nightmare">
@@ -212,8 +212,8 @@
 		<set name="price" val="2032000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="73" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="73" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5313" type="Armor" name="Sealed Gauntlets of Nightmare">
@@ -228,8 +228,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5314" type="Armor" name="Sealed Boots of Nightmare">
@@ -244,8 +244,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5315" type="Armor" name="Sealed Shield of Nightmare">
@@ -260,10 +260,10 @@
 		<set name="price" val="1422000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="256" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="256" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="5316" type="Armor" name="Sealed Majestic Plate Armor">
@@ -279,8 +279,8 @@
 		<set name="price" val="8804000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="293" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="293" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5317" type="Armor" name="Sealed Majestic Circlet">
@@ -295,8 +295,8 @@
 		<set name="price" val="2032000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="73" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="73" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5318" type="Armor" name="Sealed Majestic Gauntlets">
@@ -311,8 +311,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5319" type="Armor" name="Sealed Majestic Boots">
@@ -327,8 +327,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="49" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5320" type="Armor" name="Sealed Leather Armor of Nightmare">
@@ -344,8 +344,8 @@
 		<set name="price" val="6603000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="220" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="220" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5321" type="Armor" name="Sealed Dark Legion Gloves">
@@ -360,8 +360,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5322" type="Armor" name="Sealed Dark Legion Boots">
@@ -376,8 +376,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5323" type="Armor" name="Sealed Majestic Leather Armor">
@@ -393,8 +393,8 @@
 		<set name="price" val="6603000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="220" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="220" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5324" type="Armor" name="Sealed Gloves of Phantom">
@@ -409,8 +409,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5325" type="Armor" name="Sealed Boots of Phantom">
@@ -425,8 +425,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5326" type="Armor" name="Sealed Robe of Nightmare">
@@ -442,9 +442,9 @@
 		<set name="price" val="6603000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="147" />
-			<add order="0x40" stat="maxMp" val="718" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="147" />
+			<add stat="maxMp" val="718" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5327" type="Armor" name="Sealed Cerberus Gloves">
@@ -459,8 +459,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5328" type="Armor" name="Sealed Cerberus Boots">
@@ -475,8 +475,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5329" type="Armor" name="Sealed Majestic Robe">
@@ -492,9 +492,9 @@
 		<set name="price" val="6603000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="147" />
-			<add order="0x40" stat="maxMp" val="718" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="147" />
+			<add stat="maxMp" val="718" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5330" type="Armor" name="Sealed Dasparion's Gloves">
@@ -509,8 +509,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5331" type="Armor" name="Sealed Dasparion's Boots">
@@ -524,8 +524,8 @@
 		<set name="price" val="1355000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="48" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="48" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="5332" type="EtcItem" name="Recipe: Sealed Dark Crystal Leather Armor(60%)">
@@ -540,7 +540,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5333" type="EtcItem" name="Recipe: Sealed Dark Crystal Leather Armor(100%)">
@@ -555,7 +555,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5334" type="EtcItem" name="Recipe: Sealed Tallum Leather Armor(60%)">
@@ -570,7 +570,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5335" type="EtcItem" name="Recipe: Sealed Tallum Leather Armor(100%)">
@@ -585,7 +585,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5336" type="EtcItem" name="Recipe: Sealed Leather Armor of Nightmare(60%)">
@@ -600,7 +600,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5337" type="EtcItem" name="Recipe: Sealed Leather Armor of Nightmare(100%)">
@@ -615,7 +615,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5338" type="EtcItem" name="Recipe: Sealed Majestic Leather Armor(60%)">
@@ -630,7 +630,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5339" type="EtcItem" name="Recipe: Sealed Majestic Leather Armor(100%)">
@@ -645,7 +645,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5340" type="EtcItem" name="Recipe: Sealed Dark Crystal Leggings(60%)">
@@ -660,7 +660,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5341" type="EtcItem" name="Recipe: Sealed Dark Crystal Leggings(100%)">
@@ -675,7 +675,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5342" type="EtcItem" name="Echo Crystal - Sad Song">
@@ -730,7 +730,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5347" type="EtcItem" name="Recipe: Sealed Tallum Tunic(100%)">
@@ -745,7 +745,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5348" type="EtcItem" name="Recipe: Sealed Dark Crystal Robe(60%)">
@@ -760,7 +760,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5349" type="EtcItem" name="Recipe: Sealed Dark Crystal Robe(100%)">
@@ -775,7 +775,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5350" type="EtcItem" name="Recipe: Sealed Robe of Nightmare(60%)">
@@ -790,7 +790,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5351" type="EtcItem" name="Recipe: Sealed Robe of Nightmare(100%)">
@@ -805,7 +805,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5352" type="EtcItem" name="Recipe: Sealed Majestic Robe(60%)">
@@ -820,7 +820,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5353" type="EtcItem" name="Recipe: Sealed Majestic Robe(100%)">
@@ -835,7 +835,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5354" type="EtcItem" name="Recipe: Sealed Tallum Stockings(60%)">
@@ -850,7 +850,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5355" type="EtcItem" name="Recipe: Sealed Tallum Stockings(100%)">
@@ -865,7 +865,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5356" type="EtcItem" name="(Not in Use) Recipe: Phoenix Necklace(70%)">
@@ -952,7 +952,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5365" type="EtcItem" name="Recipe: Sealed Dark Crystal Shield(100%)">
@@ -967,7 +967,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5366" type="EtcItem" name="Recipe: Sealed Shield of Nightmare(60%)">
@@ -982,7 +982,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5367" type="EtcItem" name="Recipe: Sealed Shield of Nightmare(100%)">
@@ -997,7 +997,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5368" type="EtcItem" name="Recipe: Sealed Dark Crystal Boots(60%)">
@@ -1012,7 +1012,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5369" type="EtcItem" name="Recipe: Sealed Dark Crystal Boots(100%)">
@@ -1027,7 +1027,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5370" type="EtcItem" name="Recipe: Sealed Tallum Boots(60%)">
@@ -1042,7 +1042,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5371" type="EtcItem" name="Recipe: Sealed Tallum Boots(100%)">
@@ -1057,7 +1057,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5372" type="EtcItem" name="Recipe: Sealed Boots of Underworld(60%)">
@@ -1070,7 +1070,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5373" type="EtcItem" name="Recipe: Sealed Boots of Underworld(100%)">
@@ -1083,7 +1083,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5374" type="EtcItem" name="Recipe: Sealed Gust Boots(60%)">
@@ -1096,7 +1096,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5375" type="EtcItem" name="Recipe: Sealed Gust Boots(100%)">
@@ -1109,7 +1109,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5376" type="EtcItem" name="Recipe: Sealed Red Flame Boots(60%)">
@@ -1122,7 +1122,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5377" type="EtcItem" name="Recipe: Sealed Red Flame Boots(100%)">
@@ -1135,7 +1135,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5378" type="EtcItem" name="Recipe: Sealed Phoenix Boots(60%)">
@@ -1148,7 +1148,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5379" type="EtcItem" name="Recipe: Sealed Phoenix Boots(100%)">
@@ -1161,7 +1161,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5380" type="EtcItem" name="Recipe: Sealed Boots of Nightmare(60%)">
@@ -1176,7 +1176,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5381" type="EtcItem" name="Recipe: Sealed Boots of Nightmare(100%)">
@@ -1191,7 +1191,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5382" type="EtcItem" name="Recipe: Sealed Majestic Boots(60%)">
@@ -1206,7 +1206,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5383" type="EtcItem" name="Recipe: Sealed Majestic Boots(100%)">
@@ -1221,7 +1221,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5384" type="EtcItem" name="Recipe: Sealed Dark Legion Boots(60%)">
@@ -1234,7 +1234,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5385" type="EtcItem" name="Recipe: Sealed Dark Legion Boots(100%)">
@@ -1247,7 +1247,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5386" type="EtcItem" name="Recipe: Sealed Boots of Phantom(60%)">
@@ -1260,7 +1260,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5387" type="EtcItem" name="Recipe: Sealed Boots of Phantom(100%)">
@@ -1273,7 +1273,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5388" type="EtcItem" name="Recipe: Sealed Cerberus Boots(60%)">
@@ -1286,7 +1286,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5389" type="EtcItem" name="Recipe: Sealed Cerberus Boots(100%)">
@@ -1299,7 +1299,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5390" type="EtcItem" name="Recipe: Sealed Dasparion's Boots Boots(60%)">
@@ -1312,7 +1312,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5391" type="EtcItem" name="Recipe: Sealed Dasparion's Boots Boots(100%)">
@@ -1325,7 +1325,7 @@
 		<set name="price" val="35200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5392" type="EtcItem" name="Recipe: Sealed Dark Crystal Gloves(60%)">
@@ -1340,7 +1340,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5393" type="EtcItem" name="Recipe: Sealed Dark Crystal Gloves(100%)">
@@ -1355,7 +1355,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5394" type="EtcItem" name="Recipe: Sealed Tallum Gloves(60%)">
@@ -1370,7 +1370,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5395" type="EtcItem" name="Recipe: Sealed Tallum Gloves(100%)">
@@ -1385,7 +1385,7 @@
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="Recipes" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5396" type="EtcItem" name="Recipe: Sealed Gloves of Underworld(60%)">
@@ -1398,7 +1398,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5397" type="EtcItem" name="Recipe: Sealed Gloves of Underworld(100%)">
@@ -1411,7 +1411,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5398" type="EtcItem" name="Recipe: Sealed Gust Bracer(60%)">
@@ -1424,7 +1424,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="5399" type="EtcItem" name="Recipe: Sealed Gust Bracer(100%)">
@@ -1437,7 +1437,7 @@
 		<set name="price" val="23200" />
 		<set name="is_stackable" val="true" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 </list>

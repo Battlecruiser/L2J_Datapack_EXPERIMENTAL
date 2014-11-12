@@ -14,8 +14,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8481-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16838" type="Armor" name="Vesper Noble Leather Helmet">
@@ -32,8 +32,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8485-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16839" type="Armor" name="Vesper Noble Circlet">
@@ -50,8 +50,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8489-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16840" type="Armor" name="Vesper Noble Breastplate">
@@ -69,8 +69,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8436-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="250" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="250" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16841" type="Armor" name="Vesper Noble Houberk">
@@ -88,8 +88,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8442-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="187" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="187" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16842" type="Armor" name="Vesper Noble Tunic">
@@ -107,9 +107,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8447-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="125" />
-			<add order="0x40" stat="maxMp" val="637" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="125" />
+			<add stat="maxMp" val="637" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16843" type="Armor" name="Vesper Noble Gaiter">
@@ -127,8 +127,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8482-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="156" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="156" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16844" type="Armor" name="Vesper Noble Leather Legging">
@@ -146,8 +146,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8486-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="117" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="117" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16845" type="Armor" name="Vesper Noble Stockings">
@@ -165,9 +165,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8490-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="78" />
-			<add order="0x40" stat="maxMp" val="415" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="78" />
+			<add stat="maxMp" val="415" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16846" type="Armor" name="Vesper Noble Gauntlet">
@@ -184,8 +184,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8483-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16847" type="Armor" name="Vesper Noble Leather Gloves">
@@ -202,8 +202,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8487-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16848" type="Armor" name="Vesper Noble Gloves">
@@ -220,8 +220,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8491-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16849" type="Armor" name="Vesper Noble Boots">
@@ -238,8 +238,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8484-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16850" type="Armor" name="Vesper Noble Leather Boots">
@@ -256,8 +256,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8488-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16851" type="Armor" name="Vesper Noble Shoes">
@@ -274,8 +274,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8492-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16852" type="EtcItem" name="Hero's Treasure Chest - 90-day limited period">
@@ -318,8 +318,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="63" />
-			<add order="0x40" stat="maxMp" val="25" />
+			<add order="0" stat="mDef" val="63" />
+			<add stat="maxMp" val="25" />
 		</for>
 	</item>
 	<item id="16855" type="Armor" name="Majestic Necklace of Fortune - 90-day limited period">
@@ -335,8 +335,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="85" />
-			<add order="0x40" stat="maxMp" val="33" />
+			<add order="0" stat="mDef" val="85" />
+			<add stat="maxMp" val="33" />
 		</for>
 	</item>
 	<item id="16856" type="Armor" name="Majestic Ring of Fortune - 90-day limited period">
@@ -352,8 +352,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="42" />
-			<add order="0x40" stat="maxMp" val="17" />
+			<add order="0" stat="mDef" val="42" />
+			<add stat="maxMp" val="17" />
 		</for>
 	</item>
 	<item id="16857" type="Armor" name="Fortune Earring of Black Ore - 90-day limited period">
@@ -369,7 +369,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="54" />
+			<add order="0" stat="mDef" val="54" />
 		</for>
 	</item>
 	<item id="16858" type="Armor" name="Fortune Necklace of Black Ore - 90-day limited period">
@@ -385,7 +385,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="72" />
+			<add order="0" stat="mDef" val="72" />
 		</for>
 	</item>
 	<item id="16859" type="Armor" name="Fortune Ring of Black Ore - 90-day limited period">
@@ -401,7 +401,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="36" />
+			<add order="0" stat="mDef" val="36" />
 		</for>
 	</item>
 	<item id="16860" type="Armor" name="Fortune Earring of Seal - 90-day limited period">
@@ -417,7 +417,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="45" />
+			<add order="0" stat="mDef" val="45" />
 		</for>
 	</item>
 	<item id="16861" type="Armor" name="Fortune Necklace of Seal - 90-day limited period">
@@ -433,7 +433,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="64" />
+			<add order="0" stat="mDef" val="64" />
 		</for>
 	</item>
 	<item id="16862" type="Armor" name="Fortune Ring of Seal - 90-day limited period">
@@ -449,7 +449,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="32" />
+			<add order="0" stat="mDef" val="32" />
 		</for>
 	</item>
 	<item id="16863" type="Armor" name="Elven Earring of Fortune - 90-day limited period">
@@ -465,7 +465,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="34" />
+			<add order="0" stat="mDef" val="34" />
 		</for>
 	</item>
 	<item id="16864" type="Armor" name="Elven Earring of Fortune - 90-day limited period">
@@ -481,7 +481,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="45" />
+			<add order="0" stat="mDef" val="45" />
 		</for>
 	</item>
 	<item id="16865" type="Armor" name="Elven Ring of Fortune - 90-day limited period">
@@ -497,7 +497,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="mDef" val="22" />
+			<add order="0" stat="mDef" val="22" />
 		</for>
 	</item>
 	<item id="16866" type="Armor" name="Dark Crystal Robe of Fortune - 90-day limited period">
@@ -514,8 +514,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="139" />
-			<add order="0x40" stat="maxMp" val="665" />
+			<add order="0" stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
 		</for>
 	</item>
 	<item id="16867" type="Armor" name="Dark Crystal Helmet of Fortune - 90-day limited period">
@@ -531,7 +531,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="69" />
+			<add order="0" stat="pDef" val="69" />
 		</for>
 	</item>
 	<item id="16868" type="Armor" name="Dark Crystal Gloves of Fortune - Robe - 90-day limited period">
@@ -547,7 +547,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="16869" type="Armor" name="Dark Crystal Boots of Fortune - Robe - 90-day limited period">
@@ -563,7 +563,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="16870" type="Armor" name="Dark Crystal Shield of Fortune - 90-day limited period">
@@ -580,9 +580,9 @@
 		<set name="is_depositable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="243" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="243" />
 		</for>
 	</item>
 	<item id="16871" type="Armor" name="Avadon Robe of Fortune - 90-day limited period">
@@ -599,8 +599,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="127" />
-			<add order="0x40" stat="maxMp" val="561" />
+			<add order="0" stat="pDef" val="127" />
+			<add stat="maxMp" val="561" />
 		</for>
 	</item>
 	<item id="16872" type="Armor" name="Avadon Circlet of Fortune - 90-day limited period">
@@ -616,7 +616,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="62" />
+			<add order="0" stat="pDef" val="62" />
 		</for>
 	</item>
 	<item id="16873" type="Armor" name="Avadon Gloves of Fortune - Robe - 90-day limited period">
@@ -632,7 +632,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="16874" type="Armor" name="Avadon Boots of Fortune - Robe - 90-day limited period">
@@ -648,7 +648,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="16875" type="Armor" name="Avadon Shield of Fortune - 90-day limited period">
@@ -665,9 +665,9 @@
 		<set name="is_depositable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="216" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="216" />
 		</for>
 	</item>
 	<item id="16876" type="Armor" name="Karmian Tunic of Fortune - 90-day limited period">
@@ -684,8 +684,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="60" />
-			<add order="0x40" stat="maxMp" val="225" />
+			<add order="0" stat="pDef" val="60" />
+			<add stat="maxMp" val="225" />
 		</for>
 	</item>
 	<item id="16877" type="Armor" name="Karmian Stockings of Fortune - 90-day limited period">
@@ -702,8 +702,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="37" />
-			<add order="0x40" stat="maxMp" val="141" />
+			<add order="0" stat="pDef" val="37" />
+			<add stat="maxMp" val="141" />
 		</for>
 	</item>
 	<item id="16878" type="Armor" name="Karmian Gloves of Fortune - 90-day limited period">
@@ -719,7 +719,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="32" />
+			<add order="0" stat="pDef" val="32" />
 		</for>
 	</item>
 	<item id="16879" type="Armor" name="Karmian Boots of Fortune - 90-day limited period">
@@ -735,7 +735,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="32" />
+			<add order="0" stat="pDef" val="32" />
 		</for>
 	</item>
 	<item id="16880" type="Armor" name="Mithril Tunic of Fortune - 90-day limited period">
@@ -752,8 +752,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="52" />
-			<add order="0x40" stat="maxMp" val="169" />
+			<add order="0" stat="pDef" val="52" />
+			<add stat="maxMp" val="169" />
 		</for>
 	</item>
 	<item id="16881" type="Armor" name="Mithril Stockings of Fortune - 90-day limited period">
@@ -770,8 +770,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="32" />
-			<add order="0x40" stat="maxMp" val="105" />
+			<add order="0" stat="pDef" val="32" />
+			<add stat="maxMp" val="105" />
 		</for>
 	</item>
 	<item id="16882" type="Armor" name="Elven Mithril Gloves of Fortune - 90-day limited period">
@@ -787,7 +787,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="27" />
+			<add order="0" stat="pDef" val="27" />
 		</for>
 	</item>
 	<item id="16883" type="Armor" name="Elven Mithril Boots of Fortune - 90-day limited period">
@@ -803,7 +803,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="27" />
+			<add order="0" stat="pDef" val="27" />
 		</for>
 	</item>
 	<item id="16884" type="Armor" name="Dark Crystal Leather Armor of Fortune - 90-day limited period">
@@ -820,7 +820,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="128" />
+			<add order="0" stat="pDef" val="128" />
 		</for>
 	</item>
 	<item id="16885" type="Armor" name="Dark Crystal Leggings of Fortune - 90-day limited period">
@@ -837,7 +837,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="80" />
+			<add order="0" stat="pDef" val="80" />
 		</for>
 	</item>
 	<item id="16886" type="Armor" name="Dark Crystal Gloves of Fortune - Light Armor - 90-day limited period">
@@ -853,7 +853,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="16887" type="Armor" name="Dark Crystal Boots of Fortune - Light Armor - 90-day limited period">
@@ -869,7 +869,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="16888" type="Armor" name="Leather Armor of Doom of Fortune - 90-day limited period">
@@ -886,7 +886,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="202" />
+			<add order="0" stat="pDef" val="202" />
 		</for>
 	</item>
 	<item id="16889" type="Armor" name="Doom Helmet of Fortune - 90-day limited period">
@@ -902,7 +902,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="66" />
+			<add order="0" stat="pDef" val="66" />
 		</for>
 	</item>
 	<item id="16890" type="Armor" name="Doom Gloves of Fortune - Heavy Armor - 90-day limited period">
@@ -918,7 +918,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="16891" type="Armor" name="Doom Gloves of Fortune - Light Armor - 90-day limited period">
@@ -934,7 +934,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="16892" type="Armor" name="Doom Boots of Fortune - Heavy Armor - 90-day limited period">
@@ -950,7 +950,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="16893" type="Armor" name="Doom Boots of Fortune - Light Armor - 90-day limited period">
@@ -966,7 +966,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="16894" type="Armor" name="Doom Plate Armor of Fortune - 90-day limited period">
@@ -983,7 +983,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="270" />
+			<add order="0" stat="pDef" val="270" />
 		</for>
 	</item>
 	<item id="16895" type="Armor" name="Doom Shield of Fortune - 90-day limited period">
@@ -1000,9 +1000,9 @@
 		<set name="is_depositable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="230" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="230" />
 		</for>
 	</item>
 	<item id="16896" type="Armor" name="Plate Leather Armor of Fortune - 90-day limited period">
@@ -1019,7 +1019,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="94" />
+			<add order="0" stat="pDef" val="94" />
 		</for>
 	</item>
 	<item id="16897" type="Armor" name="Plate Leather Gaiters of Fortune - 90-day limited period">
@@ -1036,7 +1036,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="59" />
+			<add order="0" stat="pDef" val="59" />
 		</for>
 	</item>
 	<item id="16898" type="Armor" name="Plate Leather Boots of Fortune - 90-day limited period">
@@ -1052,7 +1052,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="32" />
+			<add order="0" stat="pDef" val="32" />
 		</for>
 	</item>
 	<item id="16899" type="Armor" name="Plate Leather Gloves of Fortune - 90-day limited period">
@@ -1068,7 +1068,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="time" val="129600" />
 		<for>
-			<add order="0x10" stat="pDef" val="33" />
+			<add order="0" stat="pDef" val="33" />
 		</for>
 	</item>
 </list>

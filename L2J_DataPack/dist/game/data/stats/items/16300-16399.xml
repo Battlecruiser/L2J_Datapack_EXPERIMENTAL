@@ -14,8 +14,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8432-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16301" type="Armor" name="Moirai Boots">
@@ -32,8 +32,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8422-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16302" type="Armor" name="Moirai Leather Boots">
@@ -50,8 +50,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8428-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16303" type="Armor" name="Moirai Shoes">
@@ -68,8 +68,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8433-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16304" type="Armor" name="Moirai Shield">
@@ -85,10 +85,10 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8423-1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="355" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="16305" type="Armor" name="Moirai Sigil">
@@ -105,9 +105,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8434-1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="16" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="16" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16306" type="Armor" name="Vesper Helmet">
@@ -124,8 +124,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8435-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16307" type="Armor" name="Vesper Leather Helmet">
@@ -142,8 +142,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8441-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16308" type="Armor" name="Vesper Circlet">
@@ -160,8 +160,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8446-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16309" type="Armor" name="Vesper Breastplate">
@@ -179,8 +179,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8436-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="250" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="250" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16310" type="Armor" name="Vesper Leather Breastplate">
@@ -198,8 +198,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8442-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="187" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="187" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16311" type="Armor" name="Vesper Tunic">
@@ -217,9 +217,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8447-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="125" />
-			<add order="0x40" stat="maxMp" val="637" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="125" />
+			<add stat="maxMp" val="637" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16312" type="Armor" name="Vesper Gaiter">
@@ -237,8 +237,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8437-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="156" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="156" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16313" type="Armor" name="Vesper Leather Legging">
@@ -256,8 +256,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8443-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="117" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="117" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16314" type="Armor" name="Vesper Stockings">
@@ -275,9 +275,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8448-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="78" />
-			<add order="0x40" stat="maxMp" val="415" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="78" />
+			<add stat="maxMp" val="415" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16315" type="Armor" name="Vesper Gauntlet">
@@ -294,8 +294,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8438-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16316" type="Armor" name="Vesper Leather Gloves">
@@ -312,8 +312,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8444-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16317" type="Armor" name="Vesper Gloves">
@@ -330,8 +330,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8449-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16318" type="Armor" name="Vesper Boots">
@@ -348,8 +348,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8439-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16319" type="Armor" name="Vesper Leather Boots">
@@ -366,8 +366,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8445-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16320" type="Armor" name="Vesper Shoes">
@@ -384,8 +384,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8450-1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16321" type="Armor" name="Vesper Shield">
@@ -401,10 +401,10 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8440-1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="371" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="371" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="16322" type="Armor" name="Vesper Sigil">
@@ -421,9 +421,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8451-1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="17" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="17" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16323" type="Armor" name="Sealed Moirai Helmet">
@@ -439,8 +439,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16324" type="Armor" name="Sealed Moirai Leather Helmet">
@@ -456,8 +456,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16325" type="Armor" name="Sealed Moirai Circlet">
@@ -473,8 +473,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16326" type="Armor" name="Sealed Moirai Breastplate">
@@ -491,8 +491,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="225" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="225" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16327" type="Armor" name="Sealed Moirai Leather Breastplate">
@@ -509,8 +509,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="169" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="169" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16328" type="Armor" name="Sealed Moirai Tunic">
@@ -527,9 +527,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="112" />
-			<add order="0x40" stat="maxMp" val="614" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="112" />
+			<add stat="maxMp" val="614" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16329" type="Armor" name="Sealed Moirai Gaiter">
@@ -546,8 +546,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="141" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="141" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16330" type="Armor" name="Sealed Moirai Leather Legging">
@@ -564,8 +564,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="105" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="105" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16331" type="Armor" name="Sealed Moirai Stockings">
@@ -582,9 +582,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="70" />
-			<add order="0x40" stat="maxMp" val="392" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="70" />
+			<add stat="maxMp" val="392" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16332" type="Armor" name="Sealed Moirai Gauntlet">
@@ -600,8 +600,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16333" type="Armor" name="Sealed Moirai Leather Gloves">
@@ -617,8 +617,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16334" type="Armor" name="Sealed Moirai Gloves">
@@ -634,8 +634,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16335" type="Armor" name="Sealed Moirai Boots">
@@ -651,8 +651,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16336" type="Armor" name="Sealed Moirai Leather Boots">
@@ -668,8 +668,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16337" type="Armor" name="Sealed Moirai Shoes">
@@ -685,8 +685,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16338" type="Armor" name="Sealed Moirai Shield">
@@ -701,10 +701,10 @@
 		<set name="price" val="8839000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="337" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="337" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="16339" type="Armor" name="Sealed Moirai Sigil">
@@ -720,9 +720,9 @@
 		<set name="price" val="8839000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="16" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="16" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16340" type="Armor" name="Sealed Vesper Helmet">
@@ -738,8 +738,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16341" type="Armor" name="Sealed Vesper Leather Helmet">
@@ -755,8 +755,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16342" type="Armor" name="Sealed Vesper Circlet">
@@ -772,8 +772,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="101" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="101" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16343" type="Armor" name="Sealed Vesper Breastplate">
@@ -790,8 +790,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="250" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="250" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16344" type="Armor" name="Sealed Vesper Leather Leather Breastplate">
@@ -808,8 +808,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="187" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="187" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16345" type="Armor" name="Sealed Vesper Tunic">
@@ -826,9 +826,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="125" />
-			<add order="0x40" stat="maxMp" val="637" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="125" />
+			<add stat="maxMp" val="637" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16346" type="Armor" name="Sealed Vesper Gaiter">
@@ -845,8 +845,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="148" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="148" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16347" type="Armor" name="Sealed Vesper Leather Legging">
@@ -863,8 +863,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="111" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="111" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16348" type="Armor" name="Sealed Vesper Stockings">
@@ -881,9 +881,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<add order="0x40" stat="maxMp" val="415" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<add stat="maxMp" val="415" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16349" type="Armor" name="Sealed Vesper Gauntlet">
@@ -899,8 +899,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16350" type="Armor" name="Sealed Vesper Leather Gloves">
@@ -916,8 +916,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16351" type="Armor" name="Sealed Vesper Gloves">
@@ -933,8 +933,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16352" type="Armor" name="Sealed Vesper Boots">
@@ -950,8 +950,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16353" type="Armor" name="Sealed Vesper Leather Boots">
@@ -967,8 +967,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16354" type="Armor" name="Sealed Vesper Shoes">
@@ -984,8 +984,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="68" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16355" type="Armor" name="Sealed Vesper Shield">
@@ -1000,10 +1000,10 @@
 		<set name="price" val="12250000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="352" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="352" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="16356" type="Armor" name="Sealed Vesper Sigil">
@@ -1019,9 +1019,9 @@
 		<set name="price" val="12250000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="17" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="17" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="16357" type="EtcItem" name="Sealed Vesper Ring of Chaos">
@@ -1032,7 +1032,7 @@
 		<set name="weight" val="150" />
 		<set name="price" val="5142000" />
 		<for>
-			<add order="0x10" stat="mDef" val="55" />
+			<add order="0" stat="mDef" val="55" />
 		</for>
 	</item>
 	<item id="16358" type="EtcItem" name="Sealed Vesper Earring of Chaos">
@@ -1043,7 +1043,7 @@
 		<set name="weight" val="150" />
 		<set name="price" val="7713000" />
 		<for>
-			<add order="0x10" stat="mDef" val="83" />
+			<add order="0" stat="mDef" val="83" />
 		</for>
 	</item>
 	<item id="16359" type="EtcItem" name="Sealed Vesper Necklace of Chaos">
@@ -1054,7 +1054,7 @@
 		<set name="weight" val="150" />
 		<set name="price" val="10284000" />
 		<for>
-			<add order="0x10" stat="mDef" val="110" />
+			<add order="0" stat="mDef" val="110" />
 		</for>
 	</item>
 	<item id="16360" type="EtcItem" name="Sealed Moirai Ring of Chaos">
@@ -1065,7 +1065,7 @@
 		<set name="weight" val="150" />
 		<set name="price" val="3710000" />
 		<for>
-			<add order="0x10" stat="mDef" val="53" />
+			<add order="0" stat="mDef" val="53" />
 		</for>
 	</item>
 	<item id="16361" type="EtcItem" name="Sealed Moirai Earring of Chaos">
@@ -1076,7 +1076,7 @@
 		<set name="weight" val="150" />
 		<set name="price" val="5565000" />
 		<for>
-			<add order="0x10" stat="mDef" val="76" />
+			<add order="0" stat="mDef" val="76" />
 		</for>
 	</item>
 	<item id="16362" type="EtcItem" name="Sealed Moirai Necklace of Chaos">
@@ -1087,7 +1087,7 @@
 		<set name="weight" val="150" />
 		<set name="price" val="7420000" />
 		<for>
-			<add order="0x10" stat="mDef" val="101" />
+			<add order="0" stat="mDef" val="101" />
 		</for>
 	</item>
 	<item id="16363" type="EtcItem" name="Vesper Ring of Chaos">
@@ -1099,8 +1099,8 @@
 		<set name="weight" val="150" />
 		<set name="price" val="7596000" />
 		<for>
-			<add order="0x10" stat="mDef" val="62" />
-			<add order="0x40" stat="maxMp" val="25" />
+			<add order="0" stat="mDef" val="62" />
+			<add stat="maxMp" val="25" />
 		</for>
 	</item>
 	<item id="16364" type="EtcItem" name="Vesper Earring of Chaos">
@@ -1112,8 +1112,8 @@
 		<set name="weight" val="150" />
 		<set name="price" val="11394000" />
 		<for>
-			<add order="0x10" stat="mDef" val="94" />
-			<add order="0x40" stat="maxMp" val="37" />
+			<add order="0" stat="mDef" val="94" />
+			<add stat="maxMp" val="37" />
 		</for>
 	</item>
 	<item id="16365" type="EtcItem" name="Vesper Necklace of Chaos">
@@ -1125,8 +1125,8 @@
 		<set name="weight" val="150" />
 		<set name="price" val="15192000" />
 		<for>
-			<add order="0x10" stat="mDef" val="125" />
-			<add order="0x40" stat="maxMp" val="50" />
+			<add order="0" stat="mDef" val="125" />
+			<add stat="maxMp" val="50" />
 		</for>
 	</item>
 	<item id="16366" type="EtcItem" name="Moirai Ring of Chaos">
@@ -1138,8 +1138,8 @@
 		<set name="weight" val="150" />
 		<set name="price" val="5480000" />
 		<for>
-			<add order="0x10" stat="mDef" val="53" />
-			<add order="0x40" stat="maxMp" val="24" />
+			<add order="0" stat="mDef" val="53" />
+			<add stat="maxMp" val="24" />
 		</for>
 	</item>
 	<item id="16367" type="EtcItem" name="Moirai Earring of Chaos">
@@ -1151,8 +1151,8 @@
 		<set name="weight" val="150" />
 		<set name="price" val="8221000" />
 		<for>
-			<add order="0x10" stat="mDef" val="86" />
-			<add order="0x40" stat="maxMp" val="36" />
+			<add order="0" stat="mDef" val="86" />
+			<add stat="maxMp" val="36" />
 		</for>
 	</item>
 	<item id="16368" type="EtcItem" name="Moirai Necklace of Chaos">
@@ -1164,8 +1164,8 @@
 		<set name="weight" val="150" />
 		<set name="price" val="10961000" />
 		<for>
-			<add order="0x10" stat="mDef" val="115" />
-			<add order="0x40" stat="maxMp" val="48" />
+			<add order="0" stat="mDef" val="115" />
+			<add stat="maxMp" val="48" />
 		</for>
 	</item>
 	<item id="16369" type="Armor" name="Sealed Vesper Ring">
@@ -1180,8 +1180,8 @@
 		<set name="price" val="5142000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="mDef" val="55" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="55" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16370" type="Armor" name="Sealed Vesper Earring">
@@ -1196,8 +1196,8 @@
 		<set name="price" val="7713000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="mDef" val="83" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="83" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16371" type="Armor" name="Sealed Vesper Necklace">
@@ -1212,8 +1212,8 @@
 		<set name="price" val="10284000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="mDef" val="110" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="110" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16372" type="Armor" name="Sealed Moirai Ring">
@@ -1228,8 +1228,8 @@
 		<set name="price" val="3710000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="mDef" val="53" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="53" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16373" type="Armor" name="Sealed Moirai Earring">
@@ -1244,8 +1244,8 @@
 		<set name="price" val="5565000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="mDef" val="76" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="76" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16374" type="Armor" name="Sealed Moirai Necklace">
@@ -1260,8 +1260,8 @@
 		<set name="price" val="7420000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="mDef" val="101" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="101" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16375" type="Armor" name="Vesper Ring">
@@ -1277,9 +1277,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8457-1" />
 		<for>
-			<add order="0x10" stat="mDef" val="62" />
-			<add order="0x40" stat="maxMp" val="25" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="62" />
+			<add stat="maxMp" val="25" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16376" type="Armor" name="Vesper Earring">
@@ -1295,9 +1295,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8455-1" />
 		<for>
-			<add order="0x10" stat="mDef" val="94" />
-			<add order="0x40" stat="maxMp" val="37" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="94" />
+			<add stat="maxMp" val="37" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16377" type="Armor" name="Vesper Necklace">
@@ -1313,9 +1313,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8456-1" />
 		<for>
-			<add order="0x10" stat="mDef" val="125" />
-			<add order="0x40" stat="maxMp" val="50" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="125" />
+			<add stat="maxMp" val="50" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16378" type="Armor" name="Moirai Ring">
@@ -1331,9 +1331,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8454-1" />
 		<for>
-			<add order="0x10" stat="mDef" val="61" />
-			<add order="0x40" stat="maxMp" val="24" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="61" />
+			<add stat="maxMp" val="24" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16379" type="Armor" name="Moirai Earring">
@@ -1349,9 +1349,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8452-1" />
 		<for>
-			<add order="0x10" stat="mDef" val="86" />
-			<add order="0x40" stat="maxMp" val="36" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="86" />
+			<add stat="maxMp" val="36" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16380" type="Armor" name="Moirai Necklace">
@@ -1367,9 +1367,9 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="8453-1" />
 		<for>
-			<add order="0x10" stat="mDef" val="115" />
-			<add order="0x40" stat="maxMp" val="48" />
-			<enchant order="0x0C" stat="mDef" val="0" />
+			<add order="0" stat="mDef" val="115" />
+			<add stat="maxMp" val="48" />
+			<enchant stat="mDef" val="0" />
 		</for>
 	</item>
 	<item id="16381" type="EtcItem" name="Training Order Paper">

@@ -96,7 +96,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="236" />
+			<add order="0" stat="pDef" val="236" />
 		</for>
 	</item>
 	<item id="17007" type="Armor" name="Sealed Vesper Noble Leather Breastplate">
@@ -114,7 +114,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="177" />
+			<add order="0" stat="pDef" val="177" />
 		</for>
 	</item>
 	<item id="17008" type="Armor" name="Sealed Vesper Noble Tunic">
@@ -132,8 +132,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="118" />
-			<add order="0x40" stat="maxMp" val="637" />
+			<add order="0" stat="pDef" val="118" />
+			<add stat="maxMp" val="637" />
 		</for>
 	</item>
 	<item id="17009" type="Armor" name="Sealed Vesper Noble Gaiters">
@@ -151,7 +151,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="148" />
+			<add order="0" stat="pDef" val="148" />
 		</for>
 	</item>
 	<item id="17010" type="Armor" name="Sealed Vesper Noble Gauntlet">
@@ -168,7 +168,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
+			<add order="0" stat="pDef" val="68" />
 		</for>
 	</item>
 	<item id="17011" type="Armor" name="Sealed Vesper Noble Boots">
@@ -185,7 +185,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
+			<add order="0" stat="pDef" val="68" />
 		</for>
 	</item>
 	<item id="17012" type="Armor" name="Sealed Vesper Noble Leather Leggings">
@@ -203,7 +203,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="111" />
+			<add order="0" stat="pDef" val="111" />
 		</for>
 	</item>
 	<item id="17013" type="Armor" name="Sealed Vesper Noble Leather Gloves">
@@ -220,7 +220,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
+			<add order="0" stat="pDef" val="68" />
 		</for>
 	</item>
 	<item id="17014" type="Armor" name="Sealed Vesper Noble Leather Boots">
@@ -237,7 +237,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
+			<add order="0" stat="pDef" val="68" />
 		</for>
 	</item>
 	<item id="17015" type="Armor" name="Sealed Vesper Noble Stockings">
@@ -255,8 +255,8 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<add order="0x40" stat="maxMp" val="415" />
+			<add order="0" stat="pDef" val="74" />
+			<add stat="maxMp" val="415" />
 		</for>
 	</item>
 	<item id="17016" type="Armor" name="Sealed Vesper Noble Gloves">
@@ -273,7 +273,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
+			<add order="0" stat="pDef" val="68" />
 		</for>
 	</item>
 	<item id="17017" type="Armor" name="Sealed Vesper Noble Shoes">
@@ -290,7 +290,7 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_depositable" val="false" />
 		<for>
-			<add order="0x10" stat="pDef" val="68" />
+			<add order="0" stat="pDef" val="68" />
 		</for>
 	</item>
 	<item id="17018" type="EtcItem" name="Hot Springs Potion">

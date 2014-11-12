@@ -13,8 +13,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="71" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="71" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15601" type="Armor" name="Vorpal Boots">
@@ -30,8 +30,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="71" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="71" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15602" type="Armor" name="Vorpal Leather Boots">
@@ -47,8 +47,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="71" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="71" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15603" type="Armor" name="Vorpal Shoes">
@@ -64,8 +64,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="71" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="71" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15604" type="Armor" name="Vorpal Shield">
@@ -80,10 +80,10 @@
 		<set name="price" val="14658000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="399" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="399" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="15605" type="Armor" name="Vorpal Sigil">
@@ -99,9 +99,9 @@
 		<set name="price" val="14658000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="19" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="19" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15606" type="Armor" name="Moirai Helmet">
@@ -117,8 +117,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15607" type="Armor" name="Moirai Leather Helmet">
@@ -134,8 +134,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15608" type="Armor" name="Moirai Circlet">
@@ -151,8 +151,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15609" type="Armor" name="Moirai Breastplate">
@@ -169,8 +169,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="238" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="238" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15610" type="Armor" name="Moirai Leather Breastplate">
@@ -187,8 +187,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="178" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="178" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15611" type="Armor" name="Moirai Tunic">
@@ -205,9 +205,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="119" />
-			<add order="0x40" stat="maxMp" val="614" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="119" />
+			<add stat="maxMp" val="614" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15612" type="Armor" name="Moirai Gaiter">
@@ -224,8 +224,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="149" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="149" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15613" type="Armor" name="Moirai Leather Legging">
@@ -242,8 +242,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="111" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="111" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15614" type="Armor" name="Moirai Stockings">
@@ -260,9 +260,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<add order="0x40" stat="maxMp" val="392" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<add stat="maxMp" val="392" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15615" type="Armor" name="Moirai Gauntlet">
@@ -278,8 +278,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15616" type="Armor" name="Moirai Leather Gloves">
@@ -295,8 +295,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15617" type="Armor" name="Moirai Gloves">
@@ -312,8 +312,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15618" type="Armor" name="Moirai Boots">
@@ -329,8 +329,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15619" type="Armor" name="Moirai Leather Boots">
@@ -346,8 +346,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15620" type="Armor" name="Moirai Shoes">
@@ -363,8 +363,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="64" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="64" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15621" type="Armor" name="Moirai Shield">
@@ -379,10 +379,10 @@
 		<set name="price" val="8839000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="355" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="15622" type="Armor" name="Moirai Sigil">
@@ -398,9 +398,9 @@
 		<set name="price" val="8839000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="16" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="16" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15623" type="EtcItem" name="Exp">
@@ -923,10 +923,10 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="567" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
+			<set stat="pAtk" val="567" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
 		</for>
 	</item>
 	<item id="15677" type="Weapon" name="Triumph Dagger">
@@ -949,11 +949,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="496" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="12" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="433" />
+			<set stat="pAtk" val="496" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
 		</for>
 	</item>
 	<item id="15678" type="Weapon" name="Triumph Hammer">
@@ -976,11 +976,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="567" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="379" />
+			<set stat="pAtk" val="567" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="379" />
 		</for>
 	</item>
 	<item id="15679" type="Weapon" name="Triumph Crusher">
@@ -1003,11 +1003,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="690" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
+			<set stat="pAtk" val="690" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8.0" />
+			<set stat="pAtkSpd" val="325" />
 		</for>
 	</item>
 	<item id="15680" type="Weapon" name="Triumph Two Hand Sword">
@@ -1031,10 +1031,10 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="690" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
+			<set stat="pAtk" val="690" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
 		</for>
 	</item>
 	<item id="15681" type="Weapon" name="Triumph Jamadhr">
@@ -1057,11 +1057,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="690" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
+			<set stat="pAtk" val="690" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
 		</for>
 	</item>
 	<item id="15682" type="Weapon" name="Triumph Spear">
@@ -1085,11 +1085,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="567" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="8" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
+			<set stat="pAtk" val="567" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
 		</for>
 	</item>
 	<item id="15683" type="Weapon" name="Triumph Staff">
@@ -1112,11 +1112,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="454" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="367" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="379" />
+			<set stat="pAtk" val="454" />
+			<set stat="mAtk" val="367" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="379" />
 		</for>
 	</item>
 	<item id="15684" type="Weapon" name="Triumph Two Hand Staff">
@@ -1139,11 +1139,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="553" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="403" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
+			<set stat="pAtk" val="553" />
+			<set stat="mAtk" val="403" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
 		</for>
 	</item>
 	<item id="15685" type="Weapon" name="Triumph Magic Sword">
@@ -1166,10 +1166,10 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="454" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="367" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
+			<set stat="pAtk" val="454" />
+			<set stat="mAtk" val="367" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
 		</for>
 	</item>
 	<item id="15686" type="Weapon" name="Triumph Bow">
@@ -1195,11 +1195,11 @@
 			<player isHero="true" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="1117" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="mAtk" val="275" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="rCrit" val="12" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="293" />
+			<set stat="pAtk" val="1117" />
+			<set stat="mAtk" val="275" />
+			<set stat="rCrit" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
 		</for>
 	</item>
 	<item id="15687" type="Weapon" name="Triumph Rapier">
@@ -1230,11 +1230,11 @@
 			</and>
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="344" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="10" />
-			<add order="0x10" stat="accCombat" val="-1.5" />
-			<set order="0x08" stat="pAtkSpd" val="406" />
+			<set stat="pAtk" val="344" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
 		</for>
 	</item>
 	<item id="15688" type="Weapon" name="Triumph Ancientsword">
@@ -1261,11 +1261,11 @@
 			</and>
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="429" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<add order="0x10" stat="accCombat" val="2" />
-			<set order="0x08" stat="pAtkSpd" val="350" />
+			<set stat="pAtk" val="429" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
 		</for>
 	</item>
 	<item id="15689" type="Weapon" name="Triumph Crossbow">
@@ -1293,11 +1293,11 @@
 			</and>
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="444" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="10" />
-			<add order="0x10" stat="accCombat" val="-1.5" />
-			<set order="0x08" stat="pAtkSpd" val="303" />
+			<set stat="pAtk" val="444" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
 		</for>
 	</item>
 	<item id="15690" type="EtcItem" name="Secret Key">
@@ -1349,8 +1349,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15695" type="Armor" name="Sealed Moirai Leather Helmet">
@@ -1366,8 +1366,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15696" type="Armor" name="Sealed Moirai Circlet">
@@ -1383,8 +1383,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="96" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="96" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15697" type="Armor" name="Sealed Moirai Breastplate">
@@ -1401,8 +1401,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="225" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="225" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15698" type="Armor" name="Sealed Moirai Leather Breastplate">
@@ -1419,8 +1419,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="169" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="169" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15699" type="Armor" name="Sealed Moirai Tunic">
@@ -1437,9 +1437,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="112" />
-			<add order="0x40" stat="maxMp" val="614" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="112" />
+			<add stat="maxMp" val="614" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 </list>

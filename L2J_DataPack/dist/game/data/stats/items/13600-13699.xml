@@ -1444,7 +1444,7 @@
 			</and>
 		</cond>
 		<for>
-			<add order="0x10" stat="pDef" val="20" />
+			<add order="0" stat="pDef" val="20" />
 		</for>
 	</item>
 	<item id="13687" type="Armor" name="Knight's Cloak">
@@ -1467,8 +1467,8 @@
 			</and>
 		</cond>
 		<for>
-			<add order="0x10" stat="pDef" val="20" />
-			<add order="0x40" stat="darkRes" val="30" />
+			<add order="0" stat="pDef" val="20" />
+			<add stat="darkRes" val="30" />
 		</for>
 	</item>
 	<item id="13688" type="Armor" name="Knight's Cloak - Light Armor exclusive">
@@ -1492,8 +1492,8 @@
 			</and>
 		</cond>
 		<for>
-			<add order="0x10" stat="pDef" val="20" />
-			<add order="0x40" stat="darkRes" val="30" />
+			<add order="0" stat="pDef" val="20" />
+			<add stat="darkRes" val="30" />
 		</for>
 	</item>
 	<item id="13689" type="Armor" name="Knight's Cloak - Robe exclusive">
@@ -1517,8 +1517,8 @@
 			</and>
 		</cond>
 		<for>
-			<add order="0x10" stat="pDef" val="20" />
-			<add order="0x40" stat="darkRes" val="30" />
+			<add order="0" stat="pDef" val="20" />
+			<add stat="darkRes" val="30" />
 		</for>
 	</item>
 	<item id="13690" type="Armor" name="Knight's Cloak - Kamael exclusive">
@@ -1542,8 +1542,8 @@
 			</and>
 		</cond>
 		<for>
-			<add order="0x10" stat="pDef" val="20" />
-			<add order="0x40" stat="darkRes" val="30" />
+			<add order="0" stat="pDef" val="20" />
+			<add stat="darkRes" val="30" />
 		</for>
 	</item>
 	<item id="13691" type="EtcItem" name="Mark of Keucereus - Stage 1">

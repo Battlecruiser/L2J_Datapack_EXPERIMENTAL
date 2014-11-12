@@ -540,12 +540,12 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="437" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="437" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15545" type="Weapon" name="Mamba Edge">
@@ -567,13 +567,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="382" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="12" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="433" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="382" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15546" type="Weapon" name="Eversor Mace">
@@ -595,13 +595,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="437" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="437" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15547" type="Weapon" name="Contristo Hammer">
@@ -623,13 +623,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="532" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="532" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15548" type="Weapon" name="Lava Saw">
@@ -652,12 +652,12 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="532" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="532" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15549" type="Weapon" name="Jade Claw">
@@ -679,13 +679,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="532" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="532" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15550" type="Weapon" name="Demitelum">
@@ -708,13 +708,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="3599-1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="437" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="437" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15551" type="Weapon" name="Sacredium">
@@ -737,13 +737,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_magic_weapon" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="350" />
-			<set order="0x08" stat="mAtk" val="256" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="350" />
+			<set stat="mAtk" val="256" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15552" type="Weapon" name="Cyclic Cane">
@@ -766,13 +766,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_magic_weapon" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="426" />
-			<set order="0x08" stat="mAtk" val="281" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="426" />
+			<set stat="mAtk" val="281" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15553" type="Weapon" name="Archangel Sword">
@@ -795,12 +795,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_magic_weapon" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="350" />
-			<set order="0x08" stat="mAtk" val="256" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="350" />
+			<set stat="mAtk" val="256" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15554" type="Weapon" name="Recurve Thorne Bow">
@@ -825,13 +825,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="reuse_delay" val="1500" />
 		<for>
-			<set order="0x08" stat="pAtk" val="794" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="12" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="293" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="794" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15555" type="Weapon" name="Heavenstare Rapier">
@@ -859,13 +859,13 @@
 			<player races="KAMAEL" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="396" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="10" />
-			<add order="0x10" stat="accCombat" val="-1.5" />
-			<set order="0x08" stat="pAtkSpd" val="406" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="396" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15556" type="Weapon" name="Pyseal Blade">
@@ -891,13 +891,13 @@
 			<player races="KAMAEL" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="473" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<add order="0x10" stat="accCombat" val="2" />
-			<set order="0x08" stat="pAtkSpd" val="350" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="473" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15557" type="Weapon" name="Thorne Crossbow">
@@ -924,13 +924,13 @@
 			<player races="KAMAEL" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="487" />
-			<set order="0x08" stat="mAtk" val="192" />
-			<set order="0x08" stat="rCrit" val="10" />
-			<add order="0x10" stat="accCombat" val="-1.5" />
-			<set order="0x08" stat="pAtkSpd" val="303" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="487" />
+			<set stat="mAtk" val="192" />
+			<set stat="rCrit" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15558" type="Weapon" name="Periel Sword">
@@ -953,12 +953,12 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="415" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="415" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15559" type="Weapon" name="Skull Edge">
@@ -980,13 +980,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="363" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="12" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="433" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="363" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="433" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15560" type="Weapon" name="Vigwik Axe">
@@ -1008,13 +1008,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="415" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="415" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15561" type="Weapon" name="Devilish Maul">
@@ -1036,13 +1036,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="505" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="505" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15562" type="Weapon" name="Feather Eye Blade">
@@ -1065,12 +1065,12 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="505" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="505" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15563" type="Weapon" name="Octo Claw">
@@ -1092,13 +1092,13 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="505" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="505" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15564" type="Weapon" name="Doubletop Spear">
@@ -1121,13 +1121,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="item_skill" val="3599-1" />
 		<for>
-			<set order="0x08" stat="pAtk" val="415" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="415" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="8" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15565" type="Weapon" name="Rising Star">
@@ -1150,13 +1150,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_magic_weapon" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="332" />
-			<set order="0x08" stat="mAtk" val="244" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="332" />
+			<set stat="mAtk" val="244" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15566" type="Weapon" name="Black Visage">
@@ -1179,13 +1179,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_magic_weapon" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="404" />
-			<set order="0x08" stat="mAtk" val="268" />
-			<set order="0x08" stat="rCrit" val="6" /> <!-- l2jtw : 603 -->
-			<add order="0x10" stat="accCombat" val="8.0" /> <!-- l2jtw : 603 -->
-			<set order="0x08" stat="pAtkSpd" val="325" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="404" />
+			<set stat="mAtk" val="268" />
+			<set stat="rCrit" val="6" />
+			<add stat="accCombat" val="8" />
+			<set stat="pAtkSpd" val="325" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15567" type="Weapon" name="Veniplant Sword">
@@ -1208,12 +1208,12 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="is_magic_weapon" val="true" />
 		<for>
-			<set order="0x08" stat="pAtk" val="332" />
-			<set order="0x08" stat="mAtk" val="244" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<set order="0x08" stat="pAtkSpd" val="379" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="332" />
+			<set stat="mAtk" val="244" />
+			<set stat="rCrit" val="8" />
+			<set stat="pAtkSpd" val="379" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15568" type="Weapon" name="Skull Carnium Bow">
@@ -1238,13 +1238,13 @@
 		<set name="enchant_enabled" val="1" />
 		<set name="reuse_delay" val="1500" />
 		<for>
-			<set order="0x08" stat="pAtk" val="768" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="12" />
-			<add order="0x10" stat="accCombat" val="-3.75" />
-			<set order="0x08" stat="pAtkSpd" val="293" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="768" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="12" />
+			<add stat="accCombat" val="-3.75" />
+			<set stat="pAtkSpd" val="293" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15569" type="Weapon" name="Gemtail Rapier">
@@ -1271,13 +1271,13 @@
 			<player races="KAMAEL" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="376" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="10" />
-			<add order="0x10" stat="accCombat" val="-1.5" />
-			<set order="0x08" stat="pAtkSpd" val="406" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="376" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="406" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15570" type="Weapon" name="Finale Blade">
@@ -1303,13 +1303,13 @@
 			<player races="KAMAEL" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="449" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="8" />
-			<add order="0x10" stat="accCombat" val="2" />
-			<set order="0x08" stat="pAtkSpd" val="350" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="449" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="8" />
+			<add stat="accCombat" val="2" />
+			<set stat="pAtkSpd" val="350" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15571" type="Weapon" name="Dominion Crossbow">
@@ -1336,13 +1336,13 @@
 			<player races="KAMAEL" />
 		</cond>
 		<for>
-			<set order="0x08" stat="pAtk" val="471" />
-			<set order="0x08" stat="mAtk" val="183" />
-			<set order="0x08" stat="rCrit" val="10" />
-			<add order="0x10" stat="accCombat" val="-1.5" />
-			<set order="0x08" stat="pAtkSpd" val="303" />
-			<enchant val="0" order="0x0C" stat="pAtk" />
-			<enchant val="0" order="0x0C" stat="mAtk" />
+			<set stat="pAtk" val="471" />
+			<set stat="mAtk" val="183" />
+			<set stat="rCrit" val="10" />
+			<add stat="accCombat" val="-1.5" />
+			<set stat="pAtkSpd" val="303" />
+			<enchant val="0" stat="pAtk" />
+			<enchant val="0" stat="mAtk" />
 		</for>
 	</item>
 	<item id="15572" type="Armor" name="Elegia Helmet">
@@ -1358,8 +1358,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="110" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15573" type="Armor" name="Elegia Leather Helmet">
@@ -1375,8 +1375,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="110" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15574" type="Armor" name="Elegia Circlet">
@@ -1392,8 +1392,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="110" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="110" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15575" type="Armor" name="Elegia Breastplate">
@@ -1410,8 +1410,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="272" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="272" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15576" type="Armor" name="Elegia Leather Breastplate">
@@ -1428,8 +1428,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="204" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="204" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15577" type="Armor" name="Elegia Tunic">
@@ -1446,9 +1446,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="136" />
-			<add order="0x40" stat="maxMp" val="661" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="136" />
+			<add stat="maxMp" val="661" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15578" type="Armor" name="Elegia Gaiter">
@@ -1465,8 +1465,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="170" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="170" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15579" type="Armor" name="Elegia Leather Legging">
@@ -1483,8 +1483,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="128" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="128" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15580" type="Armor" name="Elegia Stockings">
@@ -1501,9 +1501,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="85" />
-			<add order="0x40" stat="maxMp" val="439" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="85" />
+			<add stat="maxMp" val="439" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15581" type="Armor" name="Elegia Gauntlet">
@@ -1519,8 +1519,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15582" type="Armor" name="Elegia Leather Gloves">
@@ -1536,8 +1536,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15583" type="Armor" name="Elegia Gloves">
@@ -1553,8 +1553,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15584" type="Armor" name="Elegia Boots">
@@ -1570,8 +1570,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15585" type="Armor" name="Elegia Leather Boots">
@@ -1587,8 +1587,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15586" type="Armor" name="Elegia Shoes">
@@ -1604,8 +1604,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="74" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="74" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15587" type="Armor" name="Elegia Shield">
@@ -1620,10 +1620,10 @@
 		<set name="price" val="17575000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="413" />
-			<enchant val="0" order="0x0C" stat="sDef" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="413" />
+			<enchant val="0" stat="sDef" />
 		</for>
 	</item>
 	<item id="15588" type="Armor" name="Elegia Sigil">
@@ -1639,9 +1639,9 @@
 		<set name="price" val="17575000" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<add order="0x10" stat="pDef" val="21" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<sub stat="rEvas" val="8" />
+			<add order="0" stat="pDef" val="21" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15589" type="Armor" name="Vorpal Helmet">
@@ -1657,8 +1657,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="107" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="107" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15590" type="Armor" name="Vorpal Leather Helmet">
@@ -1674,8 +1674,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="107" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="107" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15591" type="Armor" name="Vorpal Circlet">
@@ -1691,8 +1691,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="107" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="107" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15592" type="Armor" name="Vorpal Breastplate">
@@ -1709,8 +1709,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="263" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="263" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15593" type="Armor" name="Vorpal Leather Breastplate">
@@ -1727,8 +1727,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="197" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="197" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15594" type="Armor" name="Vorpal Tunic">
@@ -1745,9 +1745,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="132" />
-			<add order="0x40" stat="maxMp" val="649" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="132" />
+			<add stat="maxMp" val="649" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15595" type="Armor" name="Vorpal Gaiter">
@@ -1764,8 +1764,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="164" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="164" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15596" type="Armor" name="Vorpal Leather Legging">
@@ -1782,8 +1782,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="123" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="123" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15597" type="Armor" name="Vorpal Stockings">
@@ -1800,9 +1800,9 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="82" />
-			<add order="0x40" stat="maxMp" val="427" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="82" />
+			<add stat="maxMp" val="427" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15598" type="Armor" name="Vorpal Gauntlet">
@@ -1818,8 +1818,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="71" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="71" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 	<item id="15599" type="Armor" name="Vorpal Leather Gloves">
@@ -1835,8 +1835,8 @@
 		<set name="element_enabled" val="true" />
 		<set name="enchant_enabled" val="1" />
 		<for>
-			<add order="0x10" stat="pDef" val="71" />
-			<enchant order="0x0C" stat="pDef" val="0" />
+			<add order="0" stat="pDef" val="71" />
+			<enchant stat="pDef" val="0" />
 		</for>
 	</item>
 </list>

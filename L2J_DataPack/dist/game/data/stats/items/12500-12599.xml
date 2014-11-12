@@ -8,7 +8,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="598600" />
 		<for>
-			<add order="0x10" stat="pDef" val="62" />
+			<add order="0" stat="pDef" val="62" />
 		</for>
 	</item>
 	<item id="12501" type="EtcItem" name="Foundation Zubei's Breastplate">
@@ -20,7 +20,7 @@
 		<set name="weight" val="7970" />
 		<set name="price" val="1596000" />
 		<for>
-			<add order="0x10" stat="pDef" val="157" />
+			<add order="0" stat="pDef" val="157" />
 		</for>
 	</item>
 	<item id="12502" type="EtcItem" name="Foundation Avadon Gloves">
@@ -31,7 +31,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="399100" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="12503" type="EtcItem" name="Foundation Avadon Gloves">
@@ -42,7 +42,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="399100" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="12504" type="EtcItem" name="Foundation Avadon Gloves">
@@ -53,7 +53,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="399100" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="12505" type="EtcItem" name="Foundation Avadon Leather Armor">
@@ -65,7 +65,7 @@
 		<set name="weight" val="5600" />
 		<set name="price" val="1946000" />
 		<for>
-			<add order="0x10" stat="pDef" val="191" />
+			<add order="0" stat="pDef" val="191" />
 		</for>
 	</item>
 	<item id="12506" type="EtcItem" name="Foundation Avadon Robe">
@@ -77,8 +77,8 @@
 		<set name="weight" val="2540" />
 		<set name="price" val="1197000" />
 		<for>
-			<add order="0x10" stat="pDef" val="78" />
-			<add order="0x40" stat="maxMp" val="345" />
+			<add order="0" stat="pDef" val="78" />
+			<add stat="maxMp" val="345" />
 		</for>
 	</item>
 	<item id="12507" type="EtcItem" name="Foundation Avadon Boots">
@@ -89,7 +89,7 @@
 		<set name="weight" val="1180" />
 		<set name="price" val="399100" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="12508" type="EtcItem" name="Foundation Avadon Boots">
@@ -100,7 +100,7 @@
 		<set name="weight" val="1180" />
 		<set name="price" val="399100" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="12509" type="EtcItem" name="Foundation Avadon Boots">
@@ -111,7 +111,7 @@
 		<set name="weight" val="1180" />
 		<set name="price" val="399100" />
 		<for>
-			<add order="0x10" stat="pDef" val="41" />
+			<add order="0" stat="pDef" val="41" />
 		</for>
 	</item>
 	<item id="12510" type="EtcItem" name="Foundation Avadon Circlet">
@@ -122,7 +122,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="598600" />
 		<for>
-			<add order="0x10" stat="pDef" val="62" />
+			<add order="0" stat="pDef" val="62" />
 		</for>
 	</item>
 	<item id="12511" type="EtcItem" name="Foundation Avadon Shield">
@@ -133,9 +133,9 @@
 		<set name="weight" val="1210" />
 		<set name="price" val="419000" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="216" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="216" />
 		</for>
 	</item>
 	<item id="12512" type="EtcItem" name="Foundation Avadon Gaiters">
@@ -147,7 +147,7 @@
 		<set name="weight" val="3520" />
 		<set name="price" val="997700" />
 		<for>
-			<add order="0x10" stat="pDef" val="98" />
+			<add order="0" stat="pDef" val="98" />
 		</for>
 	</item>
 	<item id="12513" type="EtcItem" name="Foundation Avadon Breastplate">
@@ -159,7 +159,7 @@
 		<set name="weight" val="7920" />
 		<set name="price" val="1596000" />
 		<for>
-			<add order="0x10" stat="pDef" val="157" />
+			<add order="0" stat="pDef" val="157" />
 		</for>
 	</item>
 	<item id="12514" type="EtcItem" name="Foundation Tunic of Zubei">
@@ -171,8 +171,8 @@
 		<set name="weight" val="1960" />
 		<set name="price" val="1197000" />
 		<for>
-			<add order="0x10" stat="pDef" val="78" />
-			<add order="0x40" stat="maxMp" val="345" />
+			<add order="0" stat="pDef" val="78" />
+			<add stat="maxMp" val="345" />
 		</for>
 	</item>
 	<item id="12515" type="EtcItem" name="Foundation Stockings of Zubei">
@@ -184,8 +184,8 @@
 		<set name="weight" val="940" />
 		<set name="price" val="748300" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
-			<add order="0x40" stat="maxMp" val="216" />
+			<add order="0" stat="pDef" val="49" />
+			<add stat="maxMp" val="216" />
 		</for>
 	</item>
 	<item id="12516" type="EtcItem" name="Foundation Doom Gloves">
@@ -196,7 +196,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12517" type="EtcItem" name="Foundation Doom Gloves">
@@ -207,7 +207,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12518" type="EtcItem" name="Foundation Doom Gloves">
@@ -218,7 +218,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12519" type="EtcItem" name="Foundation Doom Boots">
@@ -229,7 +229,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12520" type="EtcItem" name="Foundation Doom Boots">
@@ -240,7 +240,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12521" type="EtcItem" name="Foundation Doom Boots">
@@ -251,7 +251,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12522" type="EtcItem" name="Foundation Doom Shield">
@@ -262,9 +262,9 @@
 		<set name="weight" val="1200" />
 		<set name="price" val="649800" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="230" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="230" />
 		</for>
 	</item>
 	<item id="12523" type="EtcItem" name="Foundation Doom Plate Armor">
@@ -276,7 +276,7 @@
 		<set name="weight" val="9980" />
 		<set name="price" val="4022000" />
 		<for>
-			<add order="0x10" stat="pDef" val="270" />
+			<add order="0" stat="pDef" val="270" />
 		</for>
 	</item>
 	<item id="12524" type="EtcItem" name="Foundation Doom Helmet">
@@ -287,7 +287,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="928300" />
 		<for>
-			<add order="0x10" stat="pDef" val="66" />
+			<add order="0" stat="pDef" val="66" />
 		</for>
 	</item>
 	<item id="12525" type="EtcItem" name="Foundation Leather Armor of Doom">
@@ -299,7 +299,7 @@
 		<set name="weight" val="5500" />
 		<set name="price" val="3017000" />
 		<for>
-			<add order="0x10" stat="pDef" val="202" />
+			<add order="0" stat="pDef" val="202" />
 		</for>
 	</item>
 	<item id="12526" type="EtcItem" name="Foundation Sealed Doom Gloves">
@@ -310,7 +310,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12527" type="EtcItem" name="Foundation Sealed Doom Boots">
@@ -321,7 +321,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12528" type="EtcItem" name="Foundation Sealed Blue Wolf Boots">
@@ -332,7 +332,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12529" type="EtcItem" name="Foundation Sealed Blue Wolf Gloves">
@@ -343,7 +343,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12530" type="EtcItem" name="Foundation Tunic of Doom">
@@ -355,8 +355,8 @@
 		<set name="weight" val="1900" />
 		<set name="price" val="1857000" />
 		<for>
-			<add order="0x10" stat="pDef" val="83" />
-			<add order="0x40" stat="maxMp" val="377" />
+			<add order="0" stat="pDef" val="83" />
+			<add stat="maxMp" val="377" />
 		</for>
 	</item>
 	<item id="12531" type="EtcItem" name="Foundation Blue Wolf Gaiters">
@@ -368,7 +368,7 @@
 		<set name="weight" val="3370" />
 		<set name="price" val="1547100" />
 		<for>
-			<add order="0x10" stat="pDef" val="104" />
+			<add order="0" stat="pDef" val="104" />
 		</for>
 	</item>
 	<item id="12532" type="EtcItem" name="Foundation Blue Wolf Leather Armor">
@@ -380,7 +380,7 @@
 		<set name="weight" val="5500" />
 		<set name="price" val="3017000" />
 		<for>
-			<add order="0x10" stat="pDef" val="202" />
+			<add order="0" stat="pDef" val="202" />
 		</for>
 	</item>
 	<item id="12533" type="EtcItem" name="Foundation Blue Wolf Boots">
@@ -391,7 +391,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12534" type="EtcItem" name="Foundation Blue Wolf Boots">
@@ -402,7 +402,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12535" type="EtcItem" name="Foundation Blue Wolf Boots">
@@ -413,7 +413,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12536" type="EtcItem" name="Foundation Blue Wolf Gloves">
@@ -424,7 +424,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12537" type="EtcItem" name="Foundation Blue Wolf Gloves">
@@ -435,7 +435,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12538" type="EtcItem" name="Foundation Blue Wolf Gloves">
@@ -446,7 +446,7 @@
 		<set name="weight" val="590" />
 		<set name="price" val="618800" />
 		<for>
-			<add order="0x10" stat="pDef" val="44" />
+			<add order="0" stat="pDef" val="44" />
 		</for>
 	</item>
 	<item id="12539" type="EtcItem" name="Foundation Blue Wolf Tunic">
@@ -458,8 +458,8 @@
 		<set name="weight" val="1920" />
 		<set name="price" val="1857000" />
 		<for>
-			<add order="0x10" stat="pDef" val="83" />
-			<add order="0x40" stat="maxMp" val="377" />
+			<add order="0" stat="pDef" val="83" />
+			<add stat="maxMp" val="377" />
 		</for>
 	</item>
 	<item id="12540" type="EtcItem" name="Foundation Blue Wolf Helmet">
@@ -470,7 +470,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="928300" />
 		<for>
-			<add order="0x10" stat="pDef" val="66" />
+			<add order="0" stat="pDef" val="66" />
 		</for>
 	</item>
 	<item id="12541" type="EtcItem" name="Foundation Blue Wolf Stockings">
@@ -482,8 +482,8 @@
 		<set name="weight" val="920" />
 		<set name="price" val="1160300" />
 		<for>
-			<add order="0x10" stat="pDef" val="52" />
-			<add order="0x40" stat="maxMp" val="236" />
+			<add order="0" stat="pDef" val="52" />
+			<add stat="maxMp" val="236" />
 		</for>
 	</item>
 	<item id="12542" type="EtcItem" name="Foundation Blue Wolf Breastplate">
@@ -495,7 +495,7 @@
 		<set name="weight" val="7820" />
 		<set name="price" val="2475000" />
 		<for>
-			<add order="0x10" stat="pDef" val="166" />
+			<add order="0" stat="pDef" val="166" />
 		</for>
 	</item>
 	<item id="12543" type="EtcItem" name="Foundation Stockings of Doom">
@@ -507,8 +507,8 @@
 		<set name="weight" val="910" />
 		<set name="price" val="1160300" />
 		<for>
-			<add order="0x10" stat="pDef" val="52" />
-			<add order="0x40" stat="maxMp" val="236" />
+			<add order="0" stat="pDef" val="52" />
+			<add stat="maxMp" val="236" />
 		</for>
 	</item>
 	<item id="12544" type="EtcItem" name="Foundation Dark Crystal Gaiters">
@@ -520,7 +520,7 @@
 		<set name="weight" val="3320" />
 		<set name="price" val="3562000" />
 		<for>
-			<add order="0x10" stat="pDef" val="171" />
+			<add order="0" stat="pDef" val="171" />
 		</for>
 	</item>
 	<item id="12545" type="EtcItem" name="Foundation Dark Crystal Gloves">
@@ -531,7 +531,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12546" type="EtcItem" name="Foundation Dark Crystal Gloves">
@@ -542,7 +542,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12547" type="EtcItem" name="Foundation Dark Crystal Gloves">
@@ -553,7 +553,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12548" type="EtcItem" name="Foundation Dark Crystal Leather Armor">
@@ -565,7 +565,7 @@
 		<set name="weight" val="4300" />
 		<set name="price" val="2671000" />
 		<for>
-			<add order="0x10" stat="pDef" val="128" />
+			<add order="0" stat="pDef" val="128" />
 		</for>
 	</item>
 	<item id="12549" type="EtcItem" name="Foundation Dark Crystal Robe">
@@ -577,8 +577,8 @@
 		<set name="weight" val="2450" />
 		<set name="price" val="4341000" />
 		<for>
-			<add order="0x10" stat="pDef" val="139" />
-			<add order="0x40" stat="maxMp" val="665" />
+			<add order="0" stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
 		</for>
 	</item>
 	<item id="12550" type="EtcItem" name="Foundation Dark Crystal Boots">
@@ -589,7 +589,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12551" type="EtcItem" name="Foundation Dark Crystal Boots">
@@ -600,7 +600,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12552" type="EtcItem" name="Foundation Dark Crystal Boots">
@@ -611,7 +611,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12553" type="EtcItem" name="Foundation Dark Crystal Shield">
@@ -622,7 +622,7 @@
 		<set name="weight" val="1190" />
 		<set name="price" val="1336000" />
 		<for>
-			<add order="0x10" stat="pDef" val="69" />
+			<add order="0" stat="pDef" val="69" />
 		</for>
 	</item>
 	<item id="12554" type="EtcItem" name="Foundation Dark Crystal Helmet">
@@ -633,7 +633,7 @@
 		<set name="weight" val="570" />
 		<set name="price" val="1336000" />
 		<for>
-			<add order="0x10" stat="pDef" val="69" />
+			<add order="0" stat="pDef" val="69" />
 		</for>
 	</item>
 	<item id="12555" type="EtcItem" name="Foundation Dark Crystal Breastplate">
@@ -645,7 +645,7 @@
 		<set name="weight" val="7700" />
 		<set name="price" val="3562000" />
 		<for>
-			<add order="0x10" stat="pDef" val="171" />
+			<add order="0" stat="pDef" val="171" />
 		</for>
 	</item>
 	<item id="12556" type="EtcItem" name="Foundation Dark Crystal Leggings">
@@ -657,7 +657,7 @@
 		<set name="weight" val="1480" />
 		<set name="price" val="1670000" />
 		<for>
-			<add order="0x10" stat="pDef" val="80" />
+			<add order="0" stat="pDef" val="80" />
 		</for>
 	</item>
 	<item id="12557" type="EtcItem" name="Foundation Sealed Dark Crystal Gaiters">
@@ -669,7 +669,7 @@
 		<set name="weight" val="3320" />
 		<set name="price" val="2226000" />
 		<for>
-			<add order="0x10" stat="pDef" val="107" />
+			<add order="0" stat="pDef" val="107" />
 		</for>
 	</item>
 	<item id="12558" type="EtcItem" name="Foundation Sealed Dark Crystal Gloves">
@@ -680,7 +680,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12559" type="EtcItem" name="Foundation Sealed Dark Crystal Leather Armor">
@@ -692,7 +692,7 @@
 		<set name="weight" val="4300" />
 		<set name="price" val="2671000" />
 		<for>
-			<add order="0x10" stat="pDef" val="128" />
+			<add order="0" stat="pDef" val="128" />
 		</for>
 	</item>
 	<item id="12560" type="EtcItem" name="Foundation Sealed Dark Crystal Robe">
@@ -704,8 +704,8 @@
 		<set name="weight" val="2450" />
 		<set name="price" val="4341000" />
 		<for>
-			<add order="0x10" stat="pDef" val="139" />
-			<add order="0x40" stat="maxMp" val="665" />
+			<add order="0" stat="pDef" val="139" />
+			<add stat="maxMp" val="665" />
 		</for>
 	</item>
 	<item id="12561" type="EtcItem" name="Foundation Sealed Dark Crystal Boots">
@@ -716,7 +716,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12562" type="EtcItem" name="Foundation Sealed Dark Crystal Shield">
@@ -727,9 +727,9 @@
 		<set name="weight" val="1190" />
 		<set name="price" val="935000" />
 		<for>
-			<sub order="0x10" stat="rEvas" val="8" />
-			<set order="0x08" stat="rShld" val="20" />
-			<set order="0x08" stat="sDef" val="243" />
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="243" />
 		</for>
 	</item>
 	<item id="12563" type="EtcItem" name="Foundation Sealed Dark Crystal Helmet">
@@ -740,7 +740,7 @@
 		<set name="weight" val="570" />
 		<set name="price" val="1336000" />
 		<for>
-			<add order="0x10" stat="pDef" val="69" />
+			<add order="0" stat="pDef" val="69" />
 		</for>
 	</item>
 	<item id="12564" type="EtcItem" name="Foundation Sealed Dark Crystal Breastplate">
@@ -752,7 +752,7 @@
 		<set name="weight" val="7700" />
 		<set name="price" val="3562000" />
 		<for>
-			<add order="0x10" stat="pDef" val="171" />
+			<add order="0" stat="pDef" val="171" />
 		</for>
 	</item>
 	<item id="12565" type="EtcItem" name="Foundation Sealed Dark Crystal Leggings">
@@ -764,7 +764,7 @@
 		<set name="weight" val="1480" />
 		<set name="price" val="2671000" />
 		<for>
-			<add order="0x10" stat="pDef" val="128" />
+			<add order="0" stat="pDef" val="128" />
 		</for>
 	</item>
 	<item id="12566" type="EtcItem" name="Foundation Sealed Tallum Gloves">
@@ -775,7 +775,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12567" type="EtcItem" name="Foundation Sealed Tallum Leather Armor">
@@ -787,7 +787,7 @@
 		<set name="weight" val="5400" />
 		<set name="price" val="4341000" />
 		<for>
-			<add order="0x10" stat="pDef" val="209" />
+			<add order="0" stat="pDef" val="209" />
 		</for>
 	</item>
 	<item id="12568" type="EtcItem" name="Foundation Sealed Tallum Boots">
@@ -798,7 +798,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12569" type="EtcItem" name="Foundation Sealed Tallum Tunic">
@@ -810,8 +810,8 @@
 		<set name="weight" val="1860" />
 		<set name="price" val="2671000" />
 		<for>
-			<add order="0x10" stat="pDef" val="86" />
-			<add order="0x40" stat="maxMp" val="409" />
+			<add order="0" stat="pDef" val="86" />
+			<add stat="maxMp" val="409" />
 		</for>
 	</item>
 	<item id="12570" type="EtcItem" name="Foundation Sealed Tallum Plate Armor">
@@ -823,7 +823,7 @@
 		<set name="weight" val="9780" />
 		<set name="price" val="5788000" />
 		<for>
-			<add order="0x10" stat="pDef" val="278" />
+			<add order="0" stat="pDef" val="278" />
 		</for>
 	</item>
 	<item id="12571" type="EtcItem" name="Foundation Sealed Tallum Helmet">
@@ -834,7 +834,7 @@
 		<set name="weight" val="570" />
 		<set name="price" val="1336000" />
 		<for>
-			<add order="0x10" stat="pDef" val="69" />
+			<add order="0" stat="pDef" val="69" />
 		</for>
 	</item>
 	<item id="12572" type="EtcItem" name="Foundation Sealed Tallum Stockings">
@@ -846,8 +846,8 @@
 		<set name="weight" val="920" />
 		<set name="price" val="1670000" />
 		<for>
-			<add order="0x10" stat="pDef" val="53" />
-			<add order="0x40" stat="maxMp" val="256" />
+			<add order="0" stat="pDef" val="53" />
+			<add stat="maxMp" val="256" />
 		</for>
 	</item>
 	<item id="12573" type="EtcItem" name="(Not In Use) Chaotic Holy Spirit's Cloak">
@@ -858,7 +858,7 @@
 		<set name="weight" val="220" />
 		<set name="price" val="1160000" />
 		<for>
-			<add order="0x10" stat="pDef" val="18" />
+			<add order="0" stat="pDef" val="18" />
 		</for>
 	</item>
 	<item id="12574" type="EtcItem" name="Foundation Tallum Gloves">
@@ -869,7 +869,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12575" type="EtcItem" name="Foundation Tallum Gloves">
@@ -880,7 +880,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12576" type="EtcItem" name="Foundation Tallum Gloves">
@@ -891,7 +891,7 @@
 		<set name="weight" val="580" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12577" type="EtcItem" name="Foundation Tallum Leather Armor">
@@ -903,7 +903,7 @@
 		<set name="weight" val="5400" />
 		<set name="price" val="4341000" />
 		<for>
-			<add order="0x10" stat="pDef" val="209" />
+			<add order="0" stat="pDef" val="209" />
 		</for>
 	</item>
 	<item id="12578" type="EtcItem" name="Foundation Tallum Boots">
@@ -914,7 +914,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12579" type="EtcItem" name="Foundation Tallum Boots">
@@ -925,7 +925,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12580" type="EtcItem" name="Foundation Tallum Boots">
@@ -936,7 +936,7 @@
 		<set name="weight" val="1130" />
 		<set name="price" val="890000" />
 		<for>
-			<add order="0x10" stat="pDef" val="46" />
+			<add order="0" stat="pDef" val="46" />
 		</for>
 	</item>
 	<item id="12581" type="EtcItem" name="Foundation Tallum Tunic">
@@ -948,8 +948,8 @@
 		<set name="weight" val="1860" />
 		<set name="price" val="2671000" />
 		<for>
-			<add order="0x10" stat="pDef" val="86" />
-			<add order="0x40" stat="maxMp" val="409" />
+			<add order="0" stat="pDef" val="86" />
+			<add stat="maxMp" val="409" />
 		</for>
 	</item>
 	<item id="12582" type="EtcItem" name="Foundation Tallum Plate Armor">
@@ -961,7 +961,7 @@
 		<set name="weight" val="9780" />
 		<set name="price" val="5788000" />
 		<for>
-			<add order="0x10" stat="pDef" val="278" />
+			<add order="0" stat="pDef" val="278" />
 		</for>
 	</item>
 	<item id="12583" type="EtcItem" name="Foundation Tallum Helmet">
@@ -972,7 +972,7 @@
 		<set name="weight" val="570" />
 		<set name="price" val="1336000" />
 		<for>
-			<add order="0x10" stat="pDef" val="69" />
+			<add order="0" stat="pDef" val="69" />
 		</for>
 	</item>
 	<item id="12584" type="EtcItem" name="Foundation Tallum Stockings">
@@ -984,8 +984,8 @@
 		<set name="weight" val="920" />
 		<set name="price" val="1670000" />
 		<for>
-			<add order="0x10" stat="pDef" val="53" />
-			<add order="0x40" stat="maxMp" val="256" />
+			<add order="0" stat="pDef" val="53" />
+			<add stat="maxMp" val="256" />
 		</for>
 	</item>
 	<item id="12585" type="EtcItem" name="Foundation Majestic Gauntlet">
@@ -996,7 +996,7 @@
 		<set name="weight" val="540" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12586" type="EtcItem" name="Foundation Majestic Gauntlet">
@@ -1007,7 +1007,7 @@
 		<set name="weight" val="540" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12587" type="EtcItem" name="Foundation Majestic Gauntlet">
@@ -1018,7 +1018,7 @@
 		<set name="weight" val="540" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12588" type="EtcItem" name="Foundation Majestic Leather Armor">
@@ -1030,7 +1030,7 @@
 		<set name="weight" val="5350" />
 		<set name="price" val="6603000" />
 		<for>
-			<add order="0x10" stat="pDef" val="220" />
+			<add order="0" stat="pDef" val="220" />
 		</for>
 	</item>
 	<item id="12589" type="EtcItem" name="Foundation Majestic Robe">
@@ -1042,8 +1042,8 @@
 		<set name="weight" val="2330" />
 		<set name="price" val="6603000" />
 		<for>
-			<add order="0x10" stat="pDef" val="147" />
-			<add order="0x40" stat="maxMp" val="718" />
+			<add order="0" stat="pDef" val="147" />
+			<add stat="maxMp" val="718" />
 		</for>
 	</item>
 	<item id="12590" type="EtcItem" name="Foundation Majestic Boots">
@@ -1054,7 +1054,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12591" type="EtcItem" name="Foundation Majestic Boots">
@@ -1065,7 +1065,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12592" type="EtcItem" name="Foundation Majestic Boots">
@@ -1076,7 +1076,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12593" type="EtcItem" name="Foundation Majestic Circlet">
@@ -1087,7 +1087,7 @@
 		<set name="weight" val="550" />
 		<set name="price" val="2032000" />
 		<for>
-			<add order="0x10" stat="pDef" val="73" />
+			<add order="0" stat="pDef" val="73" />
 		</for>
 	</item>
 	<item id="12594" type="EtcItem" name="Foundation Majestic Plate Armor">
@@ -1099,7 +1099,7 @@
 		<set name="weight" val="9200" />
 		<set name="price" val="8804000" />
 		<for>
-			<add order="0x10" stat="pDef" val="293" />
+			<add order="0" stat="pDef" val="293" />
 		</for>
 	</item>
 	<item id="12595" type="EtcItem" name="Foundation Sealed Majestic Gauntlet">
@@ -1110,7 +1110,7 @@
 		<set name="weight" val="540" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12596" type="EtcItem" name="Foundation Sealed Majestic Leather Armor">
@@ -1122,7 +1122,7 @@
 		<set name="weight" val="5350" />
 		<set name="price" val="6603000" />
 		<for>
-			<add order="0x10" stat="pDef" val="220" />
+			<add order="0" stat="pDef" val="220" />
 		</for>
 	</item>
 	<item id="12597" type="EtcItem" name="Foundation Sealed Majestic Robe">
@@ -1134,8 +1134,8 @@
 		<set name="weight" val="2330" />
 		<set name="price" val="6603000" />
 		<for>
-			<add order="0x10" stat="pDef" val="147" />
-			<add order="0x40" stat="maxMp" val="718" />
+			<add order="0" stat="pDef" val="147" />
+			<add stat="maxMp" val="718" />
 		</for>
 	</item>
 	<item id="12598" type="EtcItem" name="Foundation Sealed Majestic Boots">
@@ -1146,7 +1146,7 @@
 		<set name="weight" val="1110" />
 		<set name="price" val="1355000" />
 		<for>
-			<add order="0x10" stat="pDef" val="49" />
+			<add order="0" stat="pDef" val="49" />
 		</for>
 	</item>
 	<item id="12599" type="EtcItem" name="Foundation Sealed Majestic Circlet">
@@ -1157,7 +1157,7 @@
 		<set name="weight" val="550" />
 		<set name="price" val="2032000" />
 		<for>
-			<add order="0x10" stat="pDef" val="73" />
+			<add order="0" stat="pDef" val="73" />
 		</for>
 	</item>
 </list>
