@@ -277,6 +277,7 @@ import quests.Q00331_ArrowOfVengeance.Q00331_ArrowOfVengeance;
 import quests.Q00338_AlligatorHunter.Q00338_AlligatorHunter;
 import quests.Q00341_HuntingForWildBeasts.Q00341_HuntingForWildBeasts;
 import quests.Q00344_1000YearsTheEndOfLamentation.Q00344_1000YearsTheEndOfLamentation;
+import quests.Q00345_MethodToRaiseTheDead.Q00345_MethodToRaiseTheDead;
 import quests.Q00347_GoGetTheCalculator.Q00347_GoGetTheCalculator;
 import quests.Q00350_EnhanceYourWeapon.Q00350_EnhanceYourWeapon;
 import quests.Q00352_HelpRoodRaiseANewPet.Q00352_HelpRoodRaiseANewPet;
@@ -296,9 +297,11 @@ import quests.Q00367_ElectrifyingRecharge.Q00367_ElectrifyingRecharge;
 import quests.Q00368_TrespassingIntoTheHolyGround.Q00368_TrespassingIntoTheHolyGround;
 import quests.Q00369_CollectorOfJewels.Q00369_CollectorOfJewels;
 import quests.Q00370_AnElderSowsSeeds.Q00370_AnElderSowsSeeds;
+import quests.Q00371_ShrieksOfGhosts.Q00371_ShrieksOfGhosts;
 import quests.Q00376_ExplorationOfTheGiantsCavePart1.Q00376_ExplorationOfTheGiantsCavePart1;
 import quests.Q00377_ExplorationOfTheGiantsCavePart2.Q00377_ExplorationOfTheGiantsCavePart2;
 import quests.Q00378_GrandFeast.Q00378_GrandFeast;
+import quests.Q00379_FantasyWine.Q00379_FantasyWine;
 import quests.Q00380_BringOutTheFlavorOfIngredients.Q00380_BringOutTheFlavorOfIngredients;
 import quests.Q00381_LetsBecomeARoyalMember.Q00381_LetsBecomeARoyalMember;
 import quests.Q00382_KailsMagicCoin.Q00382_KailsMagicCoin;
@@ -337,6 +340,7 @@ import quests.Q00458_PerfectForm.Q00458_PerfectForm;
 import quests.Q00461_RumbleInTheBase.Q00461_RumbleInTheBase;
 import quests.Q00463_IMustBeaGenius.Q00463_IMustBeaGenius;
 import quests.Q00464_Oath.Q00464_Oath;
+import quests.Q00501_ProofOfClanAlliance.Q00501_ProofOfClanAlliance;
 import quests.Q00504_CompetitionForTheBanditStronghold.Q00504_CompetitionForTheBanditStronghold;
 import quests.Q00508_AClansReputation.Q00508_AClansReputation;
 import quests.Q00509_AClansFame.Q00509_AClansFame;
@@ -713,6 +717,7 @@ public class QuestMasterHandler
 		Q00338_AlligatorHunter.class,
 		Q00341_HuntingForWildBeasts.class,
 		Q00344_1000YearsTheEndOfLamentation.class,
+		Q00345_MethodToRaiseTheDead.class,
 		Q00347_GoGetTheCalculator.class,
 		Q00350_EnhanceYourWeapon.class,
 		Q00352_HelpRoodRaiseANewPet.class,
@@ -732,9 +737,11 @@ public class QuestMasterHandler
 		Q00368_TrespassingIntoTheHolyGround.class,
 		Q00369_CollectorOfJewels.class,
 		Q00370_AnElderSowsSeeds.class,
+		Q00371_ShrieksOfGhosts.class,
 		Q00376_ExplorationOfTheGiantsCavePart1.class,
 		Q00377_ExplorationOfTheGiantsCavePart2.class,
 		Q00378_GrandFeast.class,
+		Q00379_FantasyWine.class,
 		Q00380_BringOutTheFlavorOfIngredients.class,
 		Q00381_LetsBecomeARoyalMember.class,
 		Q00382_KailsMagicCoin.class,
@@ -773,6 +780,7 @@ public class QuestMasterHandler
 		Q00461_RumbleInTheBase.class,
 		Q00463_IMustBeaGenius.class,
 		Q00464_Oath.class,
+		Q00501_ProofOfClanAlliance.class,
 		Q00504_CompetitionForTheBanditStronghold.class,
 		Q00508_AClansReputation.class,
 		Q00509_AClansFame.class,
